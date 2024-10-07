@@ -74,7 +74,7 @@ If you haven't signed up yet, please do so [before proceeding](how-to-install-th
 4. Sign in Button\
    \- Click this button to log into your account.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Forgot Password?
 
