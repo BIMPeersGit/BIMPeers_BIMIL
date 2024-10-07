@@ -22,6 +22,7 @@
   * [Category Filter](add-ins/filter-plus-basic/category-filter.md)
   * [Material Filter](add-ins/filter-plus-basic/material-filter.md)
   * [Parameter Filter](add-ins/filter-plus-basic/parameter-filter.md)
+* [IDs](add-ins/ids.md)
 * [Grid & Level Numbering](add-ins/grid-level-numbering/README.md)
   * [Grid Numbering](add-ins/grid-level-numbering/grid-numbering.md)
   * [Level Numbering](add-ins/grid-level-numbering/level-numbering.md)
