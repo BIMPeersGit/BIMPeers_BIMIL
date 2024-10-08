@@ -20,4 +20,4 @@ description: Create custom buttons using Dynamo scripts.
 * If Dynamo is open when running a script, the script will open in Dynamo.
 * Certain symbols cannot be used in button names.
 
-{% embed url="https://www.youtube.com/watch?t=29s&v=DjmgtXIdT0k" %}
+{% embed url="https://www.youtube.com/watch?v=DjmgtXIdT0k" %}

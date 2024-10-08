@@ -16,4 +16,4 @@ For morde details on specific features, explore the following:
 [level-numbering.md](level-numbering.md)
 {% endcontent-ref %}
 
-{% embed url="https://www.youtube.com/watch?t=13s&v=K2sADM4qinY" %}
+{% embed url="https://www.youtube.com/watch?v=K2sADM4qinY" %}

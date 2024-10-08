@@ -20,4 +20,4 @@ For more details on specific features, explore the following:
 [parameter-filter.md](parameter-filter.md)
 {% endcontent-ref %}
 
-{% embed url="https://www.youtube.com/watch?t=5s&v=2a1BU3-44rI" %}
+{% embed url="https://www.youtube.com/watch?v=2a1BU3-44rI" %}

@@ -24,4 +24,4 @@ description: Easily modify slab areas and create slab steps with customizable se
 * Ellipse and spline model lines are not supported.
 * Slab steps will not be created in directions where the model line extends beyond the slab boundary.
 
-{% embed url="https://www.youtube.com/watch?t=4s&v=JVF6c2pJgDM" %}
+{% embed url="https://www.youtube.com/watch?v=JVF6c2pJgDM" %}
