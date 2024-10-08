@@ -38,7 +38,7 @@ a. Navigate to the following path in your file explorer.
 {% hint style="info" %}
 The Installation Folder
 
-C:\Users%Username%\AppData\Roaming\Autodesk\Revit\Addins%version%\
+**C:\Users\\%Username%\AppData\Roaming\Autodesk\Revit\Addins\\%version%**\
 (Replace `%Username%` with your actual Windows username and `%version%` with the specific version of Revit you are using.)
 {% endhint %}
 

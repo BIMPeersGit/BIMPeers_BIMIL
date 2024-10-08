@@ -32,3 +32,11 @@ description: >-
 <figure><img src="../.gitbook/assets/install 3.png" alt="" width="375"><figcaption></figcaption></figure>
 
 6. The installation is complete!!&#x20;
+
+{% hint style="info" %}
+The Installation Folder
+
+**C:\Users\\%Username%\AppData\Roaming\Autodesk\Revit\Addins\\%version%**\
+(Replace `%Username%` with your actual Windows username and `%version%` with the specific version of Revit you are using.)
+{% endhint %}
+
