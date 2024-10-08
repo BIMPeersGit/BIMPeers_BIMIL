@@ -6,6 +6,8 @@
 
 * [Download](get-started/download.md)
 * [Install BIMIL Manager](get-started/install-bimil-manager.md)
+* [Sign-up](get-started/sign-up.md)
+* [Log-in](get-started/log-in.md)
 * [How to install the Add-in](get-started/how-to-install-the-add-in.md)
 * [User Interface](get-started/user-interface.md)
 * [Uninstall](get-started/uninstall.md)

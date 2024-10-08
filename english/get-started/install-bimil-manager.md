@@ -32,6 +32,3 @@ description: >-
 <figure><img src="../.gitbook/assets/install 3.png" alt="" width="375"><figcaption></figcaption></figure>
 
 6. The installation is complete!!&#x20;
-
-#### Let's move on to [the next step](how-to-install-the-add-in.md)\~ :fast\_forward:&#x20;
-
