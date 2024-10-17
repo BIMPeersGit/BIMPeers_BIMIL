@@ -4,10 +4,10 @@
 
 ## Get Started
 
-* [Download](get-started/download.md)
-* [Install BIMIL Manager](get-started/install-bimil-manager.md)
-* [Sign-up](get-started/sign-up.md)
-* [Log-in](get-started/log-in.md)
+* [다운로드](get-started/undefined.md)
+* [BIMIL 매니저 설치](get-started/bimil.md)
+* [회원가입](get-started/undefined-1.md)
+* [로그인](get-started/undefined-2.md)
 * [How to install the Add-in](get-started/how-to-install-the-add-in.md)
 * [User Interface](get-started/user-interface.md)
 * [Uninstall](get-started/uninstall.md)

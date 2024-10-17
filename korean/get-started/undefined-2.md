@@ -1,16 +1,16 @@
-# Log-in
+# 로그인
 
-If you haven't signed up yet, please do so [before proceeding](sign-up.md)!
+회원가입을 하지 않으셨다면, [이전 단계](undefined-1.md)로 가세요.
 
 {% hint style="warning" %}
-Please check your **internet connection**.&#x20;
+인터넷 연결 상태를 확인하세요.
 {% endhint %}
 
-1. Email \
-   \- Enter your email address.&#x20;
+1. 이메일\
+   \-  이메일 주소를   입력합니다.
 2. Password\
    \- Type in your password. \
-   \- If you forgot, [Click (marker ❺)](log-in.md#forgot-password)!&#x20;
+   \- If you forgot, [Click (marker ❺)](undefined-2.md#forgot-password)!&#x20;
 3. Keep me signed in \
    \- Check the box to stay signed in for future sessions.
 4. Sign in Button\

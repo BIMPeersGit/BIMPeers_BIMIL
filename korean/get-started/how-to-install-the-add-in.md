@@ -6,8 +6,8 @@ description: 회원 가입(메일 인증), 로그인, 비밀번호 찾기
 
 ## Prerequisites
 
-1. [Download](download.md) the lastest version of BIMIL.&#x20;
-2.  [Install](install-bimil-manager.md) BIMIL Manager.
+1. [Download](undefined.md) the lastest version of BIMIL.&#x20;
+2.  [Install](bimil.md) BIMIL Manager.
 
     a. Click the "BIMIL" button created on the desktop.
 3. [Sign-up](how-to-install-the-add-in.md#sign-up)
