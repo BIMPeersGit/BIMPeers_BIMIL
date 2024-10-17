@@ -1,7 +1,3 @@
----
-description: 회원 가입(메일 인증), 로그인, 비밀번호 찾기
----
-
 # How to install the Add-in
 
 ## Prerequisites
