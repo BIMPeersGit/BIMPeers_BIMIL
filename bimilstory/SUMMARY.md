@@ -2,16 +2,12 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## Notices
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [24-10-18](notices/24-10-18.md)
 
-## Basics
+## Release Notes
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [24-10-21](release-notes/24-10-21.md)
+* [24-10-14 : BIMIL 1.0.7.5](release-notes/24-10-14.md)
+* [24-09-23 : BIMIL 1.0.7.0](release-notes/24-09-23.md)
