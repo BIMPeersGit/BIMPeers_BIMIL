@@ -34,6 +34,7 @@
 
 ## Notices
 
+* [24-10-21](notices/24-10-21.md)
 * [24-10-18](notices/24-10-18.md)
 
 ## Release notes
