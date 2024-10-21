@@ -28,3 +28,6 @@ description: Check Element IDs or select elements by entering their ID
 * While the add-in displays the IDs of linked model elements when selected, users cannot select linked model elements by manually entering their IDs.
 * Duplicate IDs are excluded from the selection, which may result in a different element count than the number of IDs entered.
 * In Revit 2022, displaying the IDs of elements within linked models is not supported.
+
+{% embed url="https://youtu.be/g0mW3pkQRT0" %}
+
