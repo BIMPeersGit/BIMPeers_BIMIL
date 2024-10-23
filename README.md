@@ -1,7 +1,7 @@
 ## BIMIL의 Gitbook 연동 리포지터리
 
-- BIMIL Gitbook : [https://bimil.gitbook.io/](https://bimil.gitbook.io/)
+- BIMIL Documentation : <a href="https://bimil.gitbook.io/" target="_blank">https://bimil.gitbook.io/</a>
 
-- BIMIL Download : [BIMIL Homepage](https://bimpeers.com/bimil)
+- BIMIL Download : <a href="https://bimpeers.com/bimil" target="_blank">BIMIL Homepage</a>
 
-- Youtube : [BIMPeers_BIMIL](https://www.youtube.com/@BIMPeers_BIMIL)
+- BIMIL Youtube : <a href="https://www.youtube.com/@BIMPeers_BIMIL" target="_blank">BIMPeers_BIMIL</a>
