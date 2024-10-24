@@ -20,7 +20,7 @@ After logging in, you’ll see the **main page** (marker❶) with available Add-
 2. Click the **Install** button(marker❸), and the Add-in will automatically be installed for Revit versions **2022, 2023, 2024, and 2025**.
 
 {% hint style="warning" %}
-**Revit is closed** when installing Add-ins.
+Please check that **Revit is closed** when installing add-ins.
 {% endhint %}
 
 3. Enjoy using the Add-ins to enhance your Revit experience!

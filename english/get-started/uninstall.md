@@ -15,7 +15,7 @@ layout:
 # Uninstall
 
 {% hint style="warning" %}
-**Revit is closed** when uninstalling Add-ins.
+Please check that **Revit is closed** when unstalling add-ins.
 {% endhint %}
 
 ### **Uninstall Add-ins**
