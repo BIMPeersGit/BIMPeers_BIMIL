@@ -16,7 +16,11 @@
 
 * [Introduction](add-ins/introduction.md)
 * [Auto Dimension](add-ins/auto-dimension.md)
-* [Auto Join](add-ins/auto-join.md)
+* [Auto Join](add-ins/auto-join/README.md)
+  * [Settings](add-ins/auto-join/settings.md)
+  * [Detailed Options](add-ins/auto-join/detailed-options.md)
+  * [Auto Join](add-ins/auto-join/auto-join.md)
+  * [Unjoin](add-ins/auto-join/unjoin.md)
 * [Auto Tag](add-ins/auto-tag.md)
 * [Beam to Slab](add-ins/beam-to-slab.md)
 * [Excel Link](add-ins/excel-link.md)
