@@ -22,14 +22,14 @@ Please check that **Revit is closed** when unstalling add-ins.
 
 Click on the red "Uninstall" button next to the add-in.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### **Uninstall All Add-ins**
 
 a. Go to the Setting tab in the BIMIL interface. \
 b. Click on the "Remove All Add-ins" button to uninstall all installed add-ins at once.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 ### **Uninstall Add-ins Directly from the Folder.**
 

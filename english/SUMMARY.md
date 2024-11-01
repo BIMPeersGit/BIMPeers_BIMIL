@@ -15,7 +15,10 @@
 ## Add-ins
 
 * [Introduction](add-ins/introduction.md)
-* [Auto Dimension](add-ins/auto-dimension.md)
+* [Auto Dimension](add-ins/auto-dimension/README.md)
+  * [Settings - Dimensions](add-ins/auto-dimension/settings-dimensions.md)
+  * [Settings - Offsets](add-ins/auto-dimension/settings-offsets.md)
+  * [Auto Dimension](add-ins/auto-dimension/auto-dimension.md)
 * [Auto Join](add-ins/auto-join/README.md)
   * [Settings](add-ins/auto-join/settings.md)
   * [Detailed Options](add-ins/auto-join/detailed-options.md)
