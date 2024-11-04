@@ -4,6 +4,8 @@ description: Automatically attach beams to the nearest upper floor.
 
 # Beam to Slab
 
+<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="280"><figcaption></figcaption></figure>
+
 **Beam to Slab** simplifies structural projects by automatically detecting and attaching beams to the nearest upper floor. It enhances alignment between beams and floors, boosting workflow efficiency and reducing the need for manual adjustments. This add-in accurately identifies floors directly above beams, facilitating precise and seamless attachment with minimal user input.
 
 ## Features
