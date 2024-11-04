@@ -41,11 +41,13 @@
 
 ## Notices
 
+* [24-11-01](notices/24-11-01.md)
 * [24-10-21](notices/24-10-21.md)
 * [24-10-18](notices/24-10-18.md)
 
 ## Release notes
 
+* [24-11-04](release-notes/24-11-04.md)
 * [24-10-21](release-notes/24-10-21.md)
 * [24-10-14 : BIMIL 1.0.7.5](release-notes/24-10-14-bimil-1.0.7.5.md)
 * [24-09-23 : BIMIL 1.0.7.0](release-notes/24-09-23-bimil-1.0.7.0.md)
