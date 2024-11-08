@@ -1,6 +1,6 @@
 # Run Beam to Slab
 
-After selecting beams and slabs and configuring all settings, click the **OK** button to run the _Beam to Slab_ operation.
+After selecting beams and slabs and configuring all settings, click the **OK** button to execute the _Beam to Slab_ operation.
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 

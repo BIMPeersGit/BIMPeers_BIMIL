@@ -25,11 +25,11 @@ description: Automate geometry joining across categories based on user-defined p
 [detailed-options.md](detailed-options.md)
 {% endcontent-ref %}
 
-{% content-ref url="join-elements.md" %}
-[join-elements.md](join-elements.md)
+{% content-ref url="run-auto-join.md" %}
+[run-auto-join.md](run-auto-join.md)
 {% endcontent-ref %}
 
-{% content-ref url="unjoin-elements.md" %}
-[unjoin-elements.md](unjoin-elements.md)
+{% content-ref url="run-unjoin.md" %}
+[run-unjoin.md](run-unjoin.md)
 {% endcontent-ref %}
 
