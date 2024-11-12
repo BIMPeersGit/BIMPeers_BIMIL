@@ -4,7 +4,7 @@ description: Let's sign up first!
 
 # Sign-up
 
-If you've signed up, let's move on to [the next step](sign-up.md#log-in)!
+If you've signed up, let's move on to [the next step](log-in.md)!
 
 {% hint style="warning" %}
 Please check your **internet connection**.&#x20;

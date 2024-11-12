@@ -6,9 +6,9 @@
 2.  [Install](install-bimil-manager.md) BIMIL Manager.
 
     a. Click the "BIMIL" button created on the desktop.
-3. [Sign-up](how-to-install-the-add-in.md#sign-up)
-4. [Log-in](how-to-install-the-add-in.md#log-in)
-5. [Add-in Installation](how-to-install-the-add-in.md#simple-installation)
+3. [Sign-up](sign-up.md)
+4. [Log-in](log-in.md)
+5. [Add-in Installation](how-to-install-the-add-in.md#add-in-installation)
 
 ***
 
