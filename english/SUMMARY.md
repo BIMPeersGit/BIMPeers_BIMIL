@@ -57,6 +57,7 @@
 
 ## Release notes
 
+* [24-11-13](release-notes/24-11-13.md)
 * [24-11-11](release-notes/24-11-11.md)
 * [24-11-04](release-notes/24-11-04.md)
 * [24-10-21](release-notes/24-10-21.md)
