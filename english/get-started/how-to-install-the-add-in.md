@@ -16,6 +16,11 @@
 
 After logging in, you’ll see the **main page** (marker❶) with available Add-ins.
 
+{% hint style="info" %}
+**Requirements**\
+This add-in can be installed if **Autodesk Revit versions 2022, 2023, 2024, or 2025** are installed.&#x20;
+{% endhint %}
+
 1. Search for an Add-in or browse the list. (marker❷)
 2. Click the **Install** button(marker❸), and the Add-in will automatically be installed for Revit versions **2022, 2023, 2024, and 2025**.
 
