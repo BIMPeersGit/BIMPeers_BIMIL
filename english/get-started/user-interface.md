@@ -13,7 +13,7 @@ The **Setting tab** is for enabling BIMIL on system startup and managing your ac
 4. [Privacy](user-interface.md#privacy)
 5. [About ](user-interface.md#about)
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Detail view
 
@@ -21,13 +21,13 @@ The **Setting tab** is for enabling BIMIL on system startup and managing your ac
    \
    To resize the BIMIL application window, hover your mouse over any edge or corner of the window. When the cursor changes to a double-sided arrow, click and drag to adjust the window's size to your preference.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Add-in Description\
    \
    To view more details about an add-in, click anywhere on the desired add-in panel. A detailed information window will pop up, showing the add-in's features, version, and compatibility.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### General
 
@@ -35,7 +35,7 @@ The **Setting tab** is for enabling BIMIL on system startup and managing your ac
 2. Currently, only English is supported, but more languages will be available in future updates.
 3. The **Remove All Add-ins** button will be explained in [the next section](uninstall.md).
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 ### Account
 
@@ -48,7 +48,7 @@ While the **Email** cannot be changed, other information can be modified.
 2. You can choose to **Receive** or **Block** marketing emails and app push notifications by checking or unchecking the checkbox for “**I agree to receive marketing emails & app push**.”
 3. Click the "**Save**" Button to save the changes.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 ### Privacy
 
@@ -59,7 +59,7 @@ While the **Email** cannot be changed, other information can be modified.
 
 
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 ### About
 
@@ -67,4 +67,4 @@ While the **Email** cannot be changed, other information can be modified.
 2. **Contact for Issues**: If you have any questions or issues, please email [help@bimpeers.com](mailto:help@bimpeers.com) for assistance.
 3. **More Information**: For detailed information, visit [https://bimpeers.com/bimil](https://bimpeers.com/bimil).
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="352"><figcaption></figcaption></figure>

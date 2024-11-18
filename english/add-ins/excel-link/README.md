@@ -21,5 +21,6 @@
 * Font style is determined based on the first character of the cell.
 * Table layout may change when data is inserted from the clipboard.
 * When inserting date format data via clipboard, the output format may vary.
+* Files with autosave enabled (e.g., in OneDrive) are not supported while open.
 
 {% embed url="https://www.youtube.com/watch?v=Jp7pwaUHRcQ" %}

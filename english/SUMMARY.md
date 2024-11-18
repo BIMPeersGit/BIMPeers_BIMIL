@@ -29,7 +29,10 @@
   * [Select elements](add-ins/beam-to-slab/select-elements.md)
   * [Settings](add-ins/beam-to-slab/settings.md)
   * [Run Beam to Slab](add-ins/beam-to-slab/run-beam-to-slab.md)
-* [Excel Link](add-ins/excel-link.md)
+* [Excel Link](add-ins/excel-link/README.md)
+  * [Main Interface](add-ins/excel-link/main-interface.md)
+  * [Add From File](add-ins/excel-link/add-from-file.md)
+  * [Add From Clipboard](add-ins/excel-link/add-from-clipboard.md)
 * [Filter+ Basic](add-ins/filter-plus-basic/README.md)
   * [Category Filter](add-ins/filter-plus-basic/category-filter.md)
   * [Material Filter](add-ins/filter-plus-basic/material-filter.md)
@@ -57,6 +60,7 @@
 
 ## Release notes
 
+* [24-11-18](release-notes/24-11-18.md)
 * [24-11-13](release-notes/24-11-13.md)
 * [24-11-11](release-notes/24-11-11.md)
 * [24-11-04](release-notes/24-11-04.md)
