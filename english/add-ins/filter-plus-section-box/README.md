@@ -24,3 +24,7 @@ Filter+ Section Box enables efficient control over section boxes, allowing users
 * Section boxes are saved per project, with data saved upon project or list closure.
 * Each project opens with its own set of saved section boxes, clearing any previous list.
 
+{% embed url="https://www.youtube.com/watch?ab_channel=BIMPeers&v=FpO827FNVWY" %}
+
+
+

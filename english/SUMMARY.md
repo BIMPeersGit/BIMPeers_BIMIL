@@ -48,6 +48,7 @@
 * [IDs](add-ins/ids.md)
 * [Mynamo](add-ins/mynamo.md)
 * [Push / Pull Slab](add-ins/push-pull-slab.md)
+* [Shape Cutter](add-ins/shape-cutter.md)
 
 ## Notices
 
