@@ -48,10 +48,13 @@
 * [IDs](add-ins/ids.md)
 * [Mynamo](add-ins/mynamo.md)
 * [Push / Pull Slab](add-ins/push-pull-slab.md)
-* [Shape Cutter](add-ins/shape-cutter.md)
+* [Shape Cutter](add-ins/shape-cutter/README.md)
+  * [Run Shape Cutter](add-ins/shape-cutter/run-shape-cutter.md)
 
 ## Notices
 
+* [24-12-02](notices/24-12-02.md)
+* [24-11-29](notices/24-11-29.md)
 * [24-11-18](notices/24-11-18.md)
 * [24-11-13](notices/24-11-13.md)
 * [24-11-11](notices/24-11-11.md)
