@@ -48,7 +48,7 @@
 * [IDs](add-ins/ids.md)
 * [Mynamo](add-ins/mynamo.md)
 * [Push / Pull Slab](add-ins/push-pull-slab.md)
-* [Shape Cutter](add-ins/shape-cutter/README.md)
+* [Shape Cutter](add-ins/shape-cutter.md)
   * [Run Shape Cutter](add-ins/shape-cutter/run-shape-cutter.md)
 
 ## Notices
@@ -65,9 +65,10 @@
 
 ## Release notes
 
+* [24-12-02](release-notes/24-12-02.md)
 * [24-11-18](release-notes/24-11-18.md)
-* [24-11-13](release-notes/24-11-13.md)
-* [24-11-11](release-notes/24-11-11.md)
+* [24-11-13 : BIMIL 1.0.8.2](release-notes/24-11-13-bimil-1.0.8.2.md)
+* [24-11-11 : BIMIL 1.0.8.0](release-notes/24-11-11-bimil-1.0.8.0.md)
 * [24-11-04](release-notes/24-11-04.md)
 * [24-10-21](release-notes/24-10-21.md)
 * [24-10-14 : BIMIL 1.0.7.5](release-notes/24-10-14-bimil-1.0.7.5.md)
