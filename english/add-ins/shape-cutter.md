@@ -20,3 +20,6 @@ Shape Cutter divides elements with multiple disjointed profiles into individual 
 ## Notes
 
 * Does not support elements with slopes.
+
+{% embed url="https://www.youtube.com/watch?ab_channel=BIMPeers&v=4iDgPu5sNPo" %}
+
