@@ -65,6 +65,6 @@ While the **Email** cannot be changed, other information can be modified.
 
 1. **Version History**: You can check the version history of BIMIL, including the current version you are using.
 2. **Contact for Issues**: If you have any questions or issues, please email [help@bimpeers.com](mailto:help@bimpeers.com) for assistance.
-3. **More Information**: For detailed information, visit [https://bimpeers.com/bimil](https://bimpeers.com/bimil).
+3. **More Information**: For detailed information, visit [https://bimil.bimpeers.com](https://bimil.bimpeers.com).
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="352"><figcaption></figcaption></figure>
