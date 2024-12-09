@@ -4,7 +4,7 @@ BIMIL (BIM Integrated Lab) is a platform for Autodesk Revit® users, enabling th
 
 It offers tools for better documentation and design, allowing architects, engineers, and designers to customize their Revit experience for improved efficiency and collaboration.
 
-{% embed url="https://bimpeers.com/bimil" %}
+{% embed url="https://bimil.bimpeers.com" %}
 Visit the BIMIL Homepage.&#x20;
 {% endembed %}
 
