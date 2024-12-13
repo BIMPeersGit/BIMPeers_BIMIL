@@ -1,6 +1,6 @@
 # Manage Seciton Box - Settings
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt="" width="390"><figcaption></figcaption></figure>
 
 Configure the rules for generating section boxes using the **Toggle Section Box** feature.
 
@@ -16,3 +16,8 @@ Choose between **Auto** and **Fixed** for section box sizing.
 When a single directional element, such as a wall or beam, is selected, this option allows the section box to rotate to align horizontally with the direction of the selected element.
 
 <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+## Auto Zoom to Fit
+
+When enabled, this option adjusts the camera to fit the section box automatically after using the **Toggle Section Box** or **Load Section Box** features. It only functions if the section box is visible.
+
