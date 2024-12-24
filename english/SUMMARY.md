@@ -67,9 +67,9 @@
 
 ## Notices
 
-* [24-12-02](notices/24-12-02.md)
 * [24-12-24](notices/24-12-24.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [24-12-02](notices/notices-archive/24-12-02.md)
   * [24-11-29](notices/notices-archive/24-11-29.md)
   * [24-11-18](notices/notices-archive/24-11-18.md)
   * [24-11-13](notices/notices-archive/24-11-13.md)
