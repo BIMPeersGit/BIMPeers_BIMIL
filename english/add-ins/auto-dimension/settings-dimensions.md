@@ -1,6 +1,6 @@
 # Settings - Dimensions
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Dimension Type**
 
@@ -15,7 +15,7 @@ Choose between **Auto** and **Manual** for placing dimension lines:
 
 ## Direction Settings
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Use the 8-direction toggle buttons to specify the direction in which dimension lines will be automatically created. Click **Select All** in the center to toggle all directions at once.
 
