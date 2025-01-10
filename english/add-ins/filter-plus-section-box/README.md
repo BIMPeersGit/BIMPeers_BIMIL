@@ -17,6 +17,7 @@ Filter+ Section Box enables efficient control over section boxes, allowing users
   * **Fixed Size:** Set specific **X, Y, and Z** dimensions for a fixed-size section box.
   * **Section Box Offset:** Adjust the section box position with positive or negative values for each axis.
   * **Auto Rotation:** Allow the section box to rotate to align horizontally with the direction of the selected element.
+  * **Auto Zoom to Fit**: Automatically adjusts the camera to focus on the section box after it is created or loaded.
 
 #### Notes
 

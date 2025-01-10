@@ -29,7 +29,7 @@ Click on the red "Uninstall" button next to the add-in.
 a. Go to the Setting tab in the BIMIL interface. \
 b. Click on the "Remove All Add-ins" button to uninstall all installed add-ins at once.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="352"><figcaption></figcaption></figure>
 
 ### **Uninstall Add-ins Directly from the Folder.**
 

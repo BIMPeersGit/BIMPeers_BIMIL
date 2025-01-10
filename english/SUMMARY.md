@@ -64,6 +64,10 @@
 * [Shape Cutter](add-ins/shape-cutter.md)
   * [Run Shape Cutter](add-ins/shape-cutter/run-shape-cutter.md)
   * [Version History](add-ins/shape-cutter/version-history.md)
+* [Smart Tab View](add-ins/smart-tab-view/README.md)
+  * [Color by Project](add-ins/smart-tab-view/color-by-project.md)
+  * [Tab Menu](add-ins/smart-tab-view/tab-menu.md)
+  * [Version History](add-ins/smart-tab-view/version-history.md)
 
 ## Notices
 

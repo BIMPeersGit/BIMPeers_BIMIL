@@ -1,3 +1,7 @@
+---
+description: Insert data from Excel files or clipboard in the desired format.
+---
+
 # Excel Link
 
 **Excel Link** facilitates the integration of data from Excel files or clipboard content into Autodesk Revit, transforming them into Legends, Drafting Views, or Schedules. This tool streamlines the process of incorporating spreadsheet data into Revit projects, enhancing the efficiency and accuracy of documentation.

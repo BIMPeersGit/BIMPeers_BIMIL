@@ -14,6 +14,8 @@ description: Filter elements by their parameter values.
   Choose from 8 default conditions and 4 additional conditions for numeric parameters. Users can input values or select True/False conditions for applicable parameters.
 * **Custom Logic:** \
   Use AND/OR conditions to combine parameter criteria for more refined filtering.
+* 세팅 저장:\
+  Parameter Filter에 작성한 조건을 Import Export 가능.&#x20;
 
 ## **Notes**
 
