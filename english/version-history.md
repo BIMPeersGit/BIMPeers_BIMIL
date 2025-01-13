@@ -1,5 +1,9 @@
 # Version History
 
+### **v1.1.0.0** (2025-01-13)
+
+* #### Added automatic updates
+
 ### **v1.0.8.2** (2024-11-13)
 
 * Hotfix for performance optimization.
