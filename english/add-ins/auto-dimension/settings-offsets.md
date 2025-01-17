@@ -2,9 +2,9 @@
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Offsets beween Levels and Dimensions
+## Offsets between Levels and Dimensions
 
-Adjusts the spacing beween Levels and dimension lines.
+Adjusts the spacing between Levels and dimension lines.
 
 This setting applies when working in elevation or section views.
 
@@ -13,9 +13,9 @@ This setting applies when working in elevation or section views.
 
 
 
-## Offsets beween Grids and Dimensions
+## Offsets between Grids and Dimensions
 
-Adjusts the spacing beween Grids and dimension lines.
+Adjusts the spacing between Grids and dimension lines.
 
 * **First input field**: Sets the distance between the dimension line that groups all Grids and the individual dimension lines for each Grid.
 * **Second input field**: Sets the distance between the end of each Grid line and the grouped dimension line for all Grids.
