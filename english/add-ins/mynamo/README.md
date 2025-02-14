@@ -17,7 +17,6 @@ description: Create custom buttons using Dynamo scripts.
 
 * Scripts execute based on the view that is open at the time the button is pressed.
 * The add-in may not function properly if the Dynamo Player is open.
-* If Dynamo is open when running a script, the script will open in Dynamo.
 * Certain symbols cannot be used in button names.
 
 {% embed url="https://www.youtube.com/watch?v=DjmgtXIdT0k" %}
