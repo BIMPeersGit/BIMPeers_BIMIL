@@ -1,5 +1,10 @@
 # Version History
 
+### **v1.1.0.1 (2025-03-17)**
+
+* Fixed issues with cell merging not working correctly.
+* Fixed borders not displaying properly for merged cells.
+
 ### **v1.1.0.0 (2024-11-18)**
 
 * Enabled usage with opened Excel files.
