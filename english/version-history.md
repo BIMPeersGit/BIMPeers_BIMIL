@@ -1,5 +1,9 @@
 # Version History
 
+### **v1.1.2.0** (2025-03-17)
+
+* Added Feedback button and improved Excel Link Add-in
+
 ### **v1.1.0.0** (2025-01-13)
 
 * Added automatic updates
