@@ -8,7 +8,7 @@ description: >-
 
 With Snap View, you can instantly turn your Revit views into images — making documentation faster and more efficient than ever.
 
-<figure><img src="../.gitbook/assets/Gitbook_Snap View2.png" alt=""><figcaption><p>Quickly capture and export your Revit views as images.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Gitbook_Snap View2.png" alt=""><figcaption><p>Quickly capture and export your Revit views as images.</p></figcaption></figure>
 
 ## Features
 

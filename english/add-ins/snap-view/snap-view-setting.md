@@ -2,7 +2,7 @@
 
 The Snap View settings panel allows you to fully customize how your view captures behave — from copying and saving to previewing and image quality.
 
-<figure><img src="../.gitbook/assets/Snap View Setting.png" alt="" width="375"><figcaption><p>Snap View Setting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Snap View Setting.png" alt="" width="375"><figcaption><p>Snap View Setting</p></figcaption></figure>
 
 ### Settings Overview&#x20;
 

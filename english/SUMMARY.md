@@ -68,12 +68,9 @@
   * [Color by Project](add-ins/smart-tab-view/color-by-project.md)
   * [Tab Menu](add-ins/smart-tab-view/tab-menu.md)
   * [Version History](add-ins/smart-tab-view/version-history.md)
-
-***
-
-* [Snap View](snap-view/README.md)
-  * [Snap View Setting](snap-view/snap-view-setting.md)
-  * [Version History](snap-view/version-history.md)
+* [Snap View](add-ins/snap-view/README.md)
+  * [Snap View Setting](add-ins/snap-view/snap-view-setting.md)
+  * [Version History](add-ins/snap-view/version-history.md)
 
 ## Notices
 
