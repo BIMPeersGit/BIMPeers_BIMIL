@@ -1,5 +1,11 @@
 # Version History
 
+### v1.1.3.0 (2025-03-31)
+
+* Released Snap View Add-in
+* Improved Auto Tag stability
+* Enhanced BIMIL Manager checks
+
 ### **v1.1.2.0** (2025-03-17)
 
 * Added Feedback button and improved Excel Link Add-in
