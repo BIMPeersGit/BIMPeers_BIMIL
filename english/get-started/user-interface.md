@@ -13,7 +13,7 @@ The **Setting tab** is for enabling BIMIL on system startup and managing your ac
 4. [Privacy](user-interface.md#privacy)
 5. [About ](user-interface.md#about)
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Detail view
 

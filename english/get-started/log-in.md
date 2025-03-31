@@ -16,7 +16,7 @@ Please check your **internet connection**.&#x20;
 4. Sign in Button\
    \- Click this button to log into your account.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Forgot Password?
 

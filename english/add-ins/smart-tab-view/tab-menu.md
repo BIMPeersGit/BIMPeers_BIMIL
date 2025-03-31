@@ -4,7 +4,7 @@
 
 The **Tab Menu** feature provides quick access to additional actions for managing tabs and views, enhancing workflow efficiency. By enabling this feature in **Smart Tab View**, users can right-click on an active tab to reveal a range of options designed for better control over document and view management.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Available Actions
 

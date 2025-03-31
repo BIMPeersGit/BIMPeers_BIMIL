@@ -69,12 +69,17 @@
   * [Tab Menu](add-ins/smart-tab-view/tab-menu.md)
   * [Version History](add-ins/smart-tab-view/version-history.md)
 
+***
+
+* [Snap View](snap-view/README.md)
+  * [Snap View Setting](snap-view/snap-view-setting.md)
+  * [Version History](snap-view/version-history.md)
+
 ## Notices
 
 * [25-03-28](notices/25-03-28.md)
 * [Notices Archive](notices/notices-archive/README.md)
   * [25-03-21](notices/notices-archive/25-03-21.md)
-  * [25-03-17](notices/notices-archive/25-03-17.md)
   * [25-03-20](notices/notices-archive/25-03-20.md)
   * [25-03-14](notices/notices-archive/25-03-14.md)
   * [25-02-26](notices/notices-archive/25-02-26.md)
@@ -91,3 +96,7 @@
   * [24-11-01](notices/notices-archive/24-11-01.md)
   * [24-10-21](notices/notices-archive/24-10-21.md)
   * [24-10-18](notices/notices-archive/24-10-18.md)
+
+***
+
+* [25-03-17](25-03-17.md)
