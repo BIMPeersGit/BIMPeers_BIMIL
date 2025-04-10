@@ -28,3 +28,4 @@ With Snap View, you can instantly turn your Revit views into images — making d
 * If **both Copy and Auto Save are off**, **Preview is automatically enabled**.
 * Snap View is perfect for documentation, presentations, BIM reviews, and backup purposes.
 
+{% embed url="https://youtu.be/busIdiJ9_7k?si=ow8cxFFsu5hwqhRl" %}
