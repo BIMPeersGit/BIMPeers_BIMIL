@@ -1,5 +1,9 @@
 # Version History
 
+### v1.0.3.0 (2025-04-14)
+
+* Fixed Auto Tag setting bug
+
 ### v1.0.2.0 (2025-03-31)
 
 * Improved tag stability
