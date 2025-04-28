@@ -1,5 +1,9 @@
 # Version History
 
+### v1.0.3.0 (2025-04-28)
+
+* Default 3D View auto-open added / Auto Rotation state saved for Section Box.
+
 ### v1.0.1.0 (2024-12-13)
 
 * Added option for Auto Zoom to Fit.
