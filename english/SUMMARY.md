@@ -74,7 +74,7 @@
 
 ## Notices
 
-* [25-04-14](notices/25-04-14.md)
+* [25-04-28](notices/25-04-28.md)
 * [Notices Archive](notices/notices-archive/README.md)
   * [25-04-14](notices/notices-archive/25-04-14.md)
   * [25-03-31](notices/notices-archive/25-03-31.md)
