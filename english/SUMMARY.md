@@ -97,3 +97,8 @@
   * [24-11-01](notices/notices-archive/24-11-01.md)
   * [24-10-21](notices/notices-archive/24-10-21.md)
   * [24-10-18](notices/notices-archive/24-10-18.md)
+
+## Terms and Service
+
+* [Terms and Service (English)](terms-and-service/terms-and-service-english.md)
+* [서비스 이용 약관 (한국어)](terms-and-service/undefined.md)
