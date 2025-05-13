@@ -98,7 +98,9 @@
   * [24-10-21](notices/notices-archive/24-10-21.md)
   * [24-10-18](notices/notices-archive/24-10-18.md)
 
-## Terms and Service
+## Legal Documents
 
-* [Terms and Service (English)](terms-and-service/terms-and-service-english.md)
-* [서비스 이용 약관 (한국어)](terms-and-service/undefined.md)
+* [Terms and Service (English)](legal-documents/terms-and-service-english.md)
+* [서비스 이용 약관 (한국어)](legal-documents/undefined.md)
+* [Privacy Policy (English)](legal-documents/privacy-policy-english.md)
+* [개인 정보 처리 방침 (한국어)](legal-documents/undefined-1.md)
