@@ -74,8 +74,9 @@
 
 ## Notices
 
-* [25-04-28](notices/25-04-28.md)
+* [25-05-23](notices/25-05-23.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [25-04-28](notices/notices-archive/25-04-28.md)
   * [25-04-14](notices/notices-archive/25-04-14.md)
   * [25-03-31](notices/notices-archive/25-03-31.md)
   * [25-03-28](notices/notices-archive/25-03-28.md)
@@ -98,9 +99,7 @@
   * [24-10-21](notices/notices-archive/24-10-21.md)
   * [24-10-18](notices/notices-archive/24-10-18.md)
 
-## Legal Documents
+***
 
-* [Terms and Service (English)](legal-documents/terms-and-service-en.md)
-* [서비스 이용 약관 (한국어)](legal-documents/terms-and-service-ko.md)
-* [Privacy Policy (English)](legal-documents/privacy-policy-en.md)
-* [개인 정보 처리 방침 (한국어)](legal-documents/privacy-policy-ko.md)
+* [Terms and Service](terms-and-service.md)
+* [Privacy Policy](privacy-policy.md)
