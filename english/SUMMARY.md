@@ -99,7 +99,7 @@
   * [24-10-21](notices/notices-archive/24-10-21.md)
   * [24-10-18](notices/notices-archive/24-10-18.md)
 
-***
+## Legal Documents
 
-* [Terms and Service](terms-and-service.md)
-* [Privacy Policy](privacy-policy.md)
+* [Terms and Service](legal-documents/terms-and-service.md)
+* [Privacy Policy](legal-documents/privacy-policy.md)
