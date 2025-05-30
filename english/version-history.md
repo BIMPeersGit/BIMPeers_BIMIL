@@ -1,5 +1,10 @@
 # Version History
 
+### v1.1.5.0 (2025-05-30)
+
+* Admin-free installation support
+* Login protection (Single-session enforcement)
+
 ### v1.1.3.0 (2025-03-31)
 
 * Released Snap View Add-in
