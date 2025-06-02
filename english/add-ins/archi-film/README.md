@@ -27,6 +27,8 @@ description: Fast, AI-Powered Rendering for Revit Scenes
 * Requires internet access for prompt processing and Hub features.
 * Output quality depends on view composition and prompt clarity.
 
+<figure><img src="../../.gitbook/assets/STABLEDIFFUSION 2_ThreeD_3D 뷰 1_20250602_144908.png" alt=""><figcaption></figcaption></figure>
+
 ## Sample Images
 
 <div align="left"><figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526132558.jpg" alt=""><figcaption><p>Zaha Hadid</p></figcaption></figure> <figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526134514.jpg" alt=""><figcaption><p>Gaudi</p></figcaption></figure> <figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526135314.jpg" alt=""><figcaption><p>Ando Tadao</p></figcaption></figure></div>
