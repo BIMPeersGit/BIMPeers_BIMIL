@@ -42,7 +42,11 @@ If you encounter any bugs or have suggestions for improvement, please use the **
 
 <figure><img src="../../.gitbook/assets/STABLEDIFFUSION 2_ThreeD_3D 뷰 1_20250602_144908.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
+## Sample Images
+
+<div align="left"><figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526132558.jpg" alt=""><figcaption><p>Zaha Hadid</p></figcaption></figure> <figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526134514.jpg" alt=""><figcaption><p>Gaudi</p></figcaption></figure> <figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526135314.jpg" alt=""><figcaption><p>Ando Tadao</p></figcaption></figure></div>
+
+{% hint style="info" %}
 **System Requirements**
 
 * To install and use **ArchiFlim**, you must have **BIMIL version 1.1.5.0 or higher** installed.
@@ -50,7 +54,3 @@ If you encounter any bugs or have suggestions for improvement, please use the **
 
 &#x20;🔗 [Download BIMIL Latest version](https://bimil.bimpeers.com/)
 {% endhint %}
-
-## Sample Images
-
-<div align="left"><figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526132558.jpg" alt=""><figcaption><p>Zaha Hadid</p></figcaption></figure> <figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526134514.jpg" alt=""><figcaption><p>Gaudi</p></figcaption></figure> <figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250526135314.jpg" alt=""><figcaption><p>Ando Tadao</p></figcaption></figure></div>
