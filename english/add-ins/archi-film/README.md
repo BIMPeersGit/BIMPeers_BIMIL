@@ -7,7 +7,7 @@ description: Fast, AI-Powered Rendering for Revit Scenes
 {% hint style="warning" %}
 **ArchiFilm Alpha Version Release Notice**
 
-The ArchiFilm add-in will be available starting **June 9, 2025 at 04:00 AM UTC** (KST &#x31;**:00 PM**).
+The ArchiFilm add-in will be available starting **June 9, 2025 at 04:00 AM UTC** (**KST 1:00 PM**).
 
 This **Alpha version** is being released for testing purposes only.\
 You will receive **30 free credits**, and **additional credits cannot be recharged** once used.
