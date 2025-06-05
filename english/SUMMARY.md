@@ -24,7 +24,7 @@
     * [(D) Image, Gallery](add-ins/archi-film/manual/d-image-gallery.md)
   * [Tutorial](add-ins/archi-film/tutorial/README.md)
     * [1. How to use top 3 Images](add-ins/archi-film/tutorial/1.-how-to-use-top-3-images.md)
-    * [2. How to use ArchiFilm hub](add-ins/archi-film/tutorial/2.-how-to-use-archifilm-hub.md)
+    * [2. How to use ArchiFilm Hub](add-ins/archi-film/tutorial/2.-how-to-use-archifilm-hub.md)
     * [3. How to use Presets](add-ins/archi-film/tutorial/3.-how-to-use-presets.md)
     * [4. How to use Canvas](add-ins/archi-film/tutorial/4.-how-to-use-canvas.md)
     * [5. How to Generate](add-ins/archi-film/tutorial/5.-how-to-generate.md)
