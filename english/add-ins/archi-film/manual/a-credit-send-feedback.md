@@ -1,8 +1,8 @@
-# (A) Top Bar
+# (A) Credit, Send Feedback
 
 <figure><img src="../../../.gitbook/assets/매뉴얼2.png" alt=""><figcaption><p>Manual Page 2: Top Bar - Version, Credits, and Feedback</p></figcaption></figure>
 
-The Top Bar provides important information about the Archifilm version, your usage credits, and a way to communicate with the developers.
+The Top Bar provides important information about the ArchiFilm version, your usage credits, and a way to communicate with the developers.
 
 1. **Version and Credits Display (e.g., "ArchiFilm / Alpha / 547")**
    * **Function:** "You can check the current version and the number of remaining credits."
