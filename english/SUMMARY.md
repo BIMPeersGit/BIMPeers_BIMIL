@@ -31,6 +31,7 @@
     * [6. How to Generated Images](add-ins/archi-film/tutorial/6.-how-to-generated-images.md)
     * [7. How to use Gallery](add-ins/archi-film/tutorial/7.-how-to-use-gallery.md)
     * [8. How to use Credits, Feedback](add-ins/archi-film/tutorial/8.-how-to-use-credits-feedback.md)
+  * [Version History](add-ins/archi-film/version-history.md)
 * [Auto Dimension](add-ins/auto-dimension/README.md)
   * [Settings - Dimensions](add-ins/auto-dimension/settings-dimensions.md)
   * [Settings - Offsets](add-ins/auto-dimension/settings-offsets.md)

@@ -1,6 +1,6 @@
 # Tutorial
 
-<figure><img src="../../../.gitbook/assets/튜토리얼1 (1).png" alt=""><figcaption><p>튜토리얼1.png (ArchiFilm Manual - 기본 인터페이스)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/튜토리얼1 (1).png" alt=""><figcaption><p>Main Interface</p></figcaption></figure>
 
 This is the basic interface of ArchiFilm. Each number indicates the following functions:
 
