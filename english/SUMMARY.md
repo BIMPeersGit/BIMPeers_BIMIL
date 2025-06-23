@@ -16,7 +16,7 @@
 ## Add-ins
 
 * [Introduction](add-ins/introduction.md)
-* [ArchiFilm (NEW)](add-ins/archi-film/README.md)
+* [ArchiFilm (Alpha Test](add-ins/archi-film/README.md)
   * [Manual](add-ins/archi-film/manual/README.md)
     * [(A) Credit, Send Feedback](add-ins/archi-film/manual/a-credit-send-feedback.md)
     * [(B) Hub, Preset List](add-ins/archi-film/manual/b-hub-preset-list.md)
@@ -90,8 +90,9 @@
 
 ## Notices
 
-* [25-06-11](notices/25-06-11.md)
+* [25-06-20](notices/25-06-20.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [25-06-11](notices/notices-archive/25-06-11.md)
   * [25-06-09](notices/notices-archive/25-06-09.md)
   * [25-06-05](notices/notices-archive/25-06-05.md)
   * [25-05-30](notices/notices-archive/25-05-30.md)

@@ -1,5 +1,10 @@
 # Version History
 
+### v1.2.0.0(2025-06-23)&#x20;
+
+* Revit 2026 supported
+* Added a "Trigger" feature to auto-run scripts based on time or events
+
 ### v1.1.0.0 (2025-02-17)
 
 * Added window resizing and maximize options.

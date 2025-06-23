@@ -1,5 +1,9 @@
 # Version History
 
+### v1.2.0.0(2025-06-23)&#x20;
+
+* Revit 2026 supported
+
 ### v1.0.3.0 (2025-04-28)
 
 * Default 3D View auto-open added / Auto Rotation state saved for Section Box.

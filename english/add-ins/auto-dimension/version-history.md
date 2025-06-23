@@ -1,5 +1,9 @@
 # Version History
 
+### v1.2.0.0(2025-06-23)&#x20;
+
+* Revit 2026 supported
+
 ### v1.0.1.2 (2024-11-14)
 
 * Fixed issues with unit settings not functioning properly.

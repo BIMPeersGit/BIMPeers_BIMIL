@@ -22,6 +22,8 @@ With Snap View, you can instantly turn your Revit views into images — making d
     Automatically saves each captured image to a designated folder without any prompts.
   * **Image Quality**\
     Choose the image format (e.g., JPG, PNG...) and set your preferred resolution (DPI).
+  * **Capture Only the Crop Region**\
+    Optionally capture only what’s visible inside the view’s crop box.
 
 ## Notes
 

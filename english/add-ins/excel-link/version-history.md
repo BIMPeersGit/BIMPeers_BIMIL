@@ -1,5 +1,9 @@
 # Version History
 
+### v1.2.0.0(2025-06-23)&#x20;
+
+* Revit 2026 supported
+
 ### **v1.1.0.1 (2025-03-17)**
 
 * Fixed issues with cell merging not working correctly.

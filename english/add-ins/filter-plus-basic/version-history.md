@@ -1,5 +1,9 @@
 # Version History
 
+### v1.2.0.0(2025-06-23)&#x20;
+
+* Revit 2026 supported
+
 ### v1.0.1.0 (2025-01-13)
 
 * Parameter Filter: Dropdown menus added for selecting values like Level and Base Constraint.

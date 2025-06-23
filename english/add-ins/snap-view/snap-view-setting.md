@@ -2,7 +2,7 @@
 
 The Snap View settings panel allows you to fully customize how your view captures behave — from copying and saving to previewing and image quality.
 
-<figure><img src="../../.gitbook/assets/Snap View Setting.png" alt="" width="375"><figcaption><p>Snap View Setting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SnapView Setting.png" alt="" width="375"><figcaption><p>Snap View Setting</p></figcaption></figure>
 
 ### Settings Overview&#x20;
 
@@ -12,7 +12,9 @@ The Snap View settings panel allows you to fully customize how your view capture
    &#x20;Paste it instantly into emails, documents, chat apps, or design reports.
 3. **Auto Save** : Automatically saves the captured image to a predefined folder.\
    Perfect for background backups or when organizing multiple captures.
-4.  Format : Choose the image file format for saving.
+4. Crop View Only : \
+   Optionally capture only what’s visible inside the view’s crop box.
+5.  Format : Choose the image file format for saving.
 
     Snap View supports multiple formats to suit different needs:
 
@@ -21,7 +23,7 @@ The Snap View settings panel allows you to fully customize how your view capture
     * **BMP** – Uncompressed, raw image data
     * **TARGA** – Often used in 3D and game development workflows
     * **TIFF** – High-resolution format for professional print or archival
-5.  Resolution : Set the output image resolution (DPI).
+6.  Resolution : Set the output image resolution (DPI).
 
     Useful for customizing image quality depending on use:
 

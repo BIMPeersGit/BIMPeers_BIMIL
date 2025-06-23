@@ -2,17 +2,30 @@
 description: Fast, AI-Powered Rendering for Revit Scenes
 ---
 
-# ArchiFilm (NEW)
+# ArchiFilm (Alpha Test
 
 {% hint style="warning" %}
-**ArchiFilm Alpha Version Release Notice**
+**ArcArchiFlim Alpha Shutdown Notice**
 
-The ArchiFilm add-in will be available starting **June 9, 2025 at 04:00 AM UTC** (**KST 1:00 PM**).
+Hello,\
+This is the ArchiFlim Team.
 
-This **Alpha version** is being released for testing purposes only.\
-You will receive **30 free credits**, and **additional credits cannot be recharged** once used.
+First of all, thank you so much for using ArchiFlim Alpha.\
+Your feedback and support have helped us take the next big step.
 
-If you encounter any bugs or have suggestions for improvement, please use the **Feedback** button located at the top right of the add-in. Your input will be greatly appreciated and will help us improve the service.
+🗓️ **Alpha Test Period**\
+▸ **Monday, June 9, 2025 at 4:00 AM (UTC)**\
+▸ **to Sunday, June 23, 2025 at 12:00 AM (UTC)**\
+ (**KST:** June 9 at 1:00 PM \~ June 23 at 09:00 AM)
+
+We’re now preparing to launch the **BETA version**—with more powerful features and improved stability.\
+Please stay tuned. We can’t wait to show you what’s next.
+
+🙏 If you have any feedback, questions, or suggestions, we’d love to hear from you.
+
+Thank you again.
+
+– ArchiFlim Team
 {% endhint %}
 
 **ArchiFilm** is a smart Revit add-in that turns your 3D model views into high-quality, presentation-ready renderings—instantly. Without exporting to external software or relying on CG studios, you can now generate compelling visuals directly from your Revit scenes.

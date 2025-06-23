@@ -1,5 +1,10 @@
 # Version History
 
+### v1.2.0.0(2025-06-23)&#x20;
+
+* Revit 2026 supported
+* Add options for Font and Line Spacing, Add options for Thickness Prefix (Ex. THK)
+
 ### v1.0.3.0 (2025-04-14)
 
 * Fixed Auto Tag setting bug
