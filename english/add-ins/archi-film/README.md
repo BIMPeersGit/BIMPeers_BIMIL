@@ -8,7 +8,7 @@ description: Fast, AI-Powered Rendering for Revit Scenes
 **ArcArchiFlim Alpha Shutdown Notice**
 
 Hello,\
-This is the ArchiFlim Team.
+This is the BIMIL Team.
 
 First of all, thank you so much for using ArchiFlim Alpha.\
 Your feedback and support have helped us take the next big step.
