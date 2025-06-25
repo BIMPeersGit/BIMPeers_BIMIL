@@ -1,5 +1,9 @@
 # Version History
 
+### 1.2.1.0(2025-06-25)&#x20;
+
+* Fixed rotation-related Section Box bug in Manage Section Box
+
 ### v1.2.0.0(2025-06-23)&#x20;
 
 * Revit 2026 supported
