@@ -90,8 +90,9 @@
 
 ## Notices
 
-* [25-06-25](notices/25-06-25.md)
+* [25-06-27](notices/25-06-27.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [25-06-25](notices/notices-archive/25-06-25.md)
   * [25-06-23](notices/notices-archive/25-06-23.md)
   * [25-06-20](notices/notices-archive/25-06-20.md)
   * [25-06-11](notices/25-06-11.md)
