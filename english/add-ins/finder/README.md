@@ -59,4 +59,4 @@ This tool is continuously evolving, and **your feedback plays a key role in maki
 If you encounter any issues or have suggestions, please don’t hesitate to share them with us.
 {% endhint %}
 
-( Youtube 영상 기입 예정 )&#x20;
+{% embed url="https://youtu.be/NCTOEuIcvAc" %}
