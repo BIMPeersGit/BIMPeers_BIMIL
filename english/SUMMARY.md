@@ -16,22 +16,6 @@
 ## Add-ins
 
 * [Introduction](add-ins/introduction.md)
-* [ArchiFilm (Closed)](add-ins/archi-film/README.md)
-  * [Manual](add-ins/archi-film/manual/README.md)
-    * [(A) Credit, Send Feedback](add-ins/archi-film/manual/a-credit-send-feedback.md)
-    * [(B) Hub, Preset List](add-ins/archi-film/manual/b-hub-preset-list.md)
-    * [(C) Canvas, Settings](add-ins/archi-film/manual/c-canvas-settings.md)
-    * [(D) Image, Gallery](add-ins/archi-film/manual/d-image-gallery.md)
-  * [Tutorial](add-ins/archi-film/tutorial/README.md)
-    * [1. How to use top 3 Images](add-ins/archi-film/tutorial/1.-how-to-use-top-3-images.md)
-    * [2. How to use ArchiFilm Hub](add-ins/archi-film/tutorial/2.-how-to-use-archifilm-hub.md)
-    * [3. How to use Presets](add-ins/archi-film/tutorial/3.-how-to-use-presets.md)
-    * [4. How to use Canvas](add-ins/archi-film/tutorial/4.-how-to-use-canvas.md)
-    * [5. How to Generate](add-ins/archi-film/tutorial/5.-how-to-generate.md)
-    * [6. How to Generated Images](add-ins/archi-film/tutorial/6.-how-to-generated-images.md)
-    * [7. How to use Gallery](add-ins/archi-film/tutorial/7.-how-to-use-gallery.md)
-    * [8. How to use Credits, Feedback](add-ins/archi-film/tutorial/8.-how-to-use-credits-feedback.md)
-  * [Version History](add-ins/archi-film/version-history.md)
 * [Auto Dimension](add-ins/auto-dimension/README.md)
   * [Settings - Dimensions](add-ins/auto-dimension/settings-dimensions.md)
   * [Settings - Offsets](add-ins/auto-dimension/settings-offsets.md)
@@ -87,6 +71,28 @@
 * [Snap View](add-ins/snap-view/README.md)
   * [Snap View Setting](add-ins/snap-view/snap-view-setting.md)
   * [Version History](add-ins/snap-view/version-history.md)
+* [Finder](add-ins/finder/README.md)
+  * [Finder Setting](add-ins/finder/finder-setting.md)
+  * [Version History](add-ins/finder/version-history.md)
+
+***
+
+* [ArchiFilm (Closed)](archi-film/README.md)
+  * [Manual](archi-film/manual/README.md)
+    * [(A) Credit, Send Feedback](archi-film/manual/a-credit-send-feedback.md)
+    * [(B) Hub, Preset List](archi-film/manual/b-hub-preset-list.md)
+    * [(C) Canvas, Settings](archi-film/manual/c-canvas-settings.md)
+    * [(D) Image, Gallery](archi-film/manual/d-image-gallery.md)
+  * [Tutorial](archi-film/tutorial/README.md)
+    * [1. How to use top 3 Images](archi-film/tutorial/1.-how-to-use-top-3-images.md)
+    * [2. How to use ArchiFilm Hub](archi-film/tutorial/2.-how-to-use-archifilm-hub.md)
+    * [3. How to use Presets](archi-film/tutorial/3.-how-to-use-presets.md)
+    * [4. How to use Canvas](archi-film/tutorial/4.-how-to-use-canvas.md)
+    * [5. How to Generate](archi-film/tutorial/5.-how-to-generate.md)
+    * [6. How to Generated Images](archi-film/tutorial/6.-how-to-generated-images.md)
+    * [7. How to use Gallery](archi-film/tutorial/7.-how-to-use-gallery.md)
+    * [8. How to use Credits, Feedback](archi-film/tutorial/8.-how-to-use-credits-feedback.md)
+  * [Version History](archi-film/version-history.md)
 
 ## Notices
 
