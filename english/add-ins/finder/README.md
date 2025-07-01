@@ -15,17 +15,17 @@ With a single click, it automatically analyzes spatial information without the n
 
 ### ✅ Features
 
-✔️ **Grid** – Returns the name of the **grid line closest to the element’s center point**. Supports vertical, horizontal, and diagonal grids.
+✔️ **Grid** – Shows the grid lines based on the element’s overall geometry. Supports vertical, horizontal, and diagonal grids.
 
-✔️ **Level** – Returns the name of the **level that the element belongs to**, based on its elevation.
+✔️ **Level** – Shows the name of the level the element belongs to, based on its elevation.
 
-✔️ **Room** – Provides information about the **architectural room that contains the element**, including room name and number.
+✔️ **Room** – Shows information about the architectural room containing the element, including the room name and number.
 
-✔️ **Space -** Returns the **MEP space** the element is located in. This is typically used in mechanical, electrical, and plumbing design.
+✔️ **Space -** Shows the MEP space where the element is located. Typically used in mechanical, electrical, and plumbing design.
 
-✔️ **Zone -** Returns the **logical MEP zone** that groups multiple spaces for system-level organization (e.g., HVAC zones).
+✔️ **Zone -** Shows the logical MEP zone that groups multiple spaces for system-level organization (e.g., HVAC zones).
 
-✔️ **Area** – Returns the **name or number of the area** that contains the element.
+✔️ **Area** – Shows the name or number of the area containing the element.
 
 ***
 
