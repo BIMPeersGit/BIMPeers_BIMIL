@@ -1,16 +1,5 @@
 ---
 description: Align Grids and Levels based on Crop Region.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Grid to Crop
