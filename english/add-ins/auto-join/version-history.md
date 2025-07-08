@@ -2,11 +2,11 @@
 
 ### v1.2.1.0(2025-07-08)&#x20;
 
-* Revit 2026 supported
+* UI & UX update
 
 ### v1.2.0.0(2025-06-23)&#x20;
 
-* UI & UX update
+* Revit 2026 supported
 
 ### v1.0.2.0 (2024-11-11)
 
