@@ -1,5 +1,13 @@
 # Version History
 
+### v1.1.7.0 (2025-06-23)
+
+* Added "My Add-ins" tab, "Update All" button, and "add-in list refresh" button
+
+### v1.1.6.0 (2025-06-09)
+
+* Released ArchiFlim(Alpha ver.) add-in
+
 ### v1.1.5.0 (2025-05-30)
 
 * Admin-free installation support
