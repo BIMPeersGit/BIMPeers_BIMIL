@@ -4,7 +4,7 @@ The Snap View settings panel allows you to fully customize how your view capture
 
 <figure><img src="../../.gitbook/assets/Finder Setting.png" alt="" width="375"><figcaption><p>Finder  Setting</p></figcaption></figure>
 
-### ✅ Settings Overview&#x20;
+## ✅ Settings Overview&#x20;
 
 The Report Setting section allows you to configure **which location information is included in the result.**\
 When a checkbox is selected, the corresponding data will be **displayed in the result window and included in the report.**

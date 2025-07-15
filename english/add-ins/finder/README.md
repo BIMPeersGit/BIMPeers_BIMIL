@@ -6,14 +6,14 @@ description: >-
 
 # Finder
 
-### 📌 **What is Finder?**
+## 📌 **What is Finder?**
 
 Finder Add-in helps you quickly identify **where any selected element is located in your Revit model.**\
 With a single click, it automatically analyzes spatial information without the need for manual checking or complicated workflows.
 
 <figure><img src="../../.gitbook/assets/Mail IMG2 (1).png" alt=""><figcaption><p>Displays an element’s <strong>Grid, Level, Room, Space, Zone, and Area</strong> with a single click.</p></figcaption></figure>
 
-### ✅ Features
+## ✅ Features
 
 ✔️ **Grid** – Shows the grid lines based on the element’s overall geometry. Supports vertical, horizontal, and diagonal grids.
 
@@ -29,7 +29,7 @@ With a single click, it automatically analyzes spatial information without the n
 
 ***
 
-### 💡 Useful Tips
+## 💡 Useful Tips
 
 Exporting location data to reports
 
@@ -47,7 +47,7 @@ Exporting location data to reports
 
 ***
 
-### ⚠️ Notes
+## ⚠️ Notes
 
 * Finder only supports selecting **a single element at a time**!&#x20;
 * **Elements from Linked Models are not supported.** Only elements in the active project file are analyzed.
