@@ -96,8 +96,9 @@
 
 ## Notices
 
-* [25-07-08](notices/25-07-08.md)
+* [25-07-14](notices/25-07-14.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [25-07-08](notices/notices-archive/25-07-08.md)
   * [25-06-30](notices/notices-archive/25-06-30.md)
   * [25-06-27](notices/notices-archive/25-06-27.md)
   * [25-06-25](notices/notices-archive/25-06-25.md)
