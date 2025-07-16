@@ -74,6 +74,9 @@
 * [Finder](add-ins/finder/README.md)
   * [Finder Setting](add-ins/finder/finder-setting.md)
   * [Version History](add-ins/finder/version-history.md)
+* [Box to View](add-ins/box-to-view/README.md)
+  * [How to Use](add-ins/box-to-view/how-to-use.md)
+  * [Version History](add-ins/box-to-view/version-history.md)
 
 ***
 
