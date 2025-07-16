@@ -2,7 +2,7 @@
 description: SectionBox/ScopeBox-Based 6 Direction View Auto-Creation Add-in
 ---
 
-# Box to View
+# 📢 Box to View
 
 ## 📌 **What is Box to View?**
 

@@ -34,6 +34,9 @@
   * [Settings](add-ins/beam-to-slab/settings.md)
   * [Run Beam to Slab](add-ins/beam-to-slab/run-beam-to-slab.md)
   * [Version History](add-ins/beam-to-slab/version-history.md)
+* [📢 Box to View](add-ins/box-to-view/README.md)
+  * [How to Use](add-ins/box-to-view/how-to-use.md)
+  * [Version History](add-ins/box-to-view/version-history.md)
 * [Excel Link](add-ins/excel-link/README.md)
   * [Main Interface](add-ins/excel-link/main-interface.md)
   * [Add From File](add-ins/excel-link/add-from-file.md)
@@ -49,6 +52,9 @@
   * [Manage Section Box - Box List](add-ins/filter-plus-section-box/manage-section-box-box-list.md)
   * [Manage Seciton Box - Settings](add-ins/filter-plus-section-box/manage-seciton-box-settings.md)
   * [Version History](add-ins/filter-plus-section-box/version-history.md)
+* [Finder](add-ins/finder/README.md)
+  * [Finder Setting](add-ins/finder/finder-setting.md)
+  * [Version History](add-ins/finder/version-history.md)
 * [Grid & Level Numbering](add-ins/grid-level-numbering/README.md)
   * [Grid Numbering](add-ins/grid-level-numbering/grid-numbering.md)
   * [Level Numbering](add-ins/grid-level-numbering/level-numbering.md)
@@ -71,12 +77,6 @@
 * [Snap View](add-ins/snap-view/README.md)
   * [Snap View Setting](add-ins/snap-view/snap-view-setting.md)
   * [Version History](add-ins/snap-view/version-history.md)
-* [Finder](add-ins/finder/README.md)
-  * [Finder Setting](add-ins/finder/finder-setting.md)
-  * [Version History](add-ins/finder/version-history.md)
-* [Box to View](add-ins/box-to-view/README.md)
-  * [How to Use](add-ins/box-to-view/how-to-use.md)
-  * [Version History](add-ins/box-to-view/version-history.md)
 
 ***
 
