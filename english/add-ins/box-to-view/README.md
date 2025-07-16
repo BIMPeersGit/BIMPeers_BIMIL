@@ -10,7 +10,7 @@ description: SectionBox/ScopeBox-Based 6 Direction View Auto-Creation Add-in
 
 With a single click, it delivers consistent, precisely aligned views for documentation, review, and presentations, eliminating repetitive manual setup.
 
-<figure><img src="../../.gitbook/assets/Teaser3.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/xa8_ebuAyHU" %}
 
 ## ✅ Features
 
