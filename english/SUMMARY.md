@@ -34,7 +34,7 @@
   * [Settings](add-ins/beam-to-slab/settings.md)
   * [Run Beam to Slab](add-ins/beam-to-slab/run-beam-to-slab.md)
   * [Version History](add-ins/beam-to-slab/version-history.md)
-* [📢 Box to View](add-ins/box-to-view/README.md)
+* [Box to View](add-ins/box-to-view/README.md)
   * [How to Use](add-ins/box-to-view/how-to-use.md)
   * [Version History](add-ins/box-to-view/version-history.md)
 * [Excel Link](add-ins/excel-link/README.md)
@@ -42,6 +42,9 @@
   * [Add From File](add-ins/excel-link/add-from-file.md)
   * [Add From Clipboard](add-ins/excel-link/add-from-clipboard.md)
   * [Version History](add-ins/excel-link/version-history.md)
+* [📢 Excel Sync (25-07-23)](add-ins/excel-sync-25-07-23/README.md)
+  * [How to Use](add-ins/excel-sync-25-07-23/how-to-use.md)
+  * [Version History](add-ins/excel-sync-25-07-23/version-history.md)
 * [Filter+ Basic](add-ins/filter-plus-basic/README.md)
   * [Category Filter](add-ins/filter-plus-basic/category-filter.md)
   * [Material Filter](add-ins/filter-plus-basic/material-filter.md)
@@ -99,6 +102,7 @@
 
 ## Notices
 
+* [📢 25-07-23](notices/25-07-23.md)
 * [25-07-16](notices/25-07-16.md)
 * [Notices Archive](notices/notices-archive/README.md)
   * [25-07-14](notices/notices-archive/25-07-14.md)
