@@ -7,7 +7,7 @@ hidden: true
 
 ## 📌 **What is Excel Sync?**
 
-Excel Sync is a powerful Revit Add-in that allows you to export, edit, and re-import parameter values using Excel or a built-in spreadsheet interface.
+Excel Sync is a powerful Revit Add-in that lets you quickly export, edit, and re-import parameter values using Excel or a built-in spreadsheet — no more clicking through endless property windows.
 
 No more navigating through dozens of schedules or complex property windows — just fast, flexible control over your BIM data.
 
@@ -17,9 +17,9 @@ Whether you're updating thousands of instance parameters or tweaking type values
 
 ## ✅ Features
 
-#### ✔️ Export Revit parameter values to Excel with a single click
+#### ✔️ Easily export parameter values to Excel with one click
 
-✔️ **Edit values directly inside Revit using an intuitive spreadsheet view**
+✔️ **Edit parameters in Revit just like spread sheet - no extra tools need**
 
 ✔ **Import edited Excel files and apply changes instantly to the model**
 
@@ -33,8 +33,10 @@ Whether you're updating thousands of instance parameters or tweaking type values
 * Teams frequently updating parameter data
 * Anyone who prefers Excel over Revit’s schedule views
 * Designers looking for a faster, cleaner way to manage data
-* Users tired of clicking through endless property windows
+* Anyone frustrated by repetitive property editing
 
 ## 💡 **Why Excel Sync?**
 
-<h4 align="center">“No more clicking through endless properties, update parameters in bulk with Excel.”<br>“Edit like a spreadsheet, right inside Revit.”<br>“Found a typo across 300 elements? Fix it in seconds, not hours.”</h4>
+{% hint style="success" %}
+**"Make large-scale edits in minutes, not hours."**
+{% endhint %}
