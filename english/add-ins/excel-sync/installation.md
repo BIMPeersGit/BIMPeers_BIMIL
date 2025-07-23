@@ -4,9 +4,13 @@
 
 \- Excel Sync requires BIMIL Manager version 1.1.8.0 or higher.\
 \- If your version is below 1.1.8.0, update it by one of the following:\
-&#x20;     \- Close BIMIL from the system tray and reopen it to update the Manager automatically.\
+&#x20;     \- Click the BIMIL icon in the system tray → Select “Check for Updates”.\
 &#x20;     \- Or manually download the latest installer using the link below: \
 &#x20;        👉[Download the latest BIMIL Manager](https://bimil.bimpeers.com/download/latest)
+
+<figure><img src="../../.gitbook/assets/BIMIL Manager Update.png" alt=""><figcaption></figcaption></figure>
+
+<p align="center">⚠️ Please make sure Revit is closed before updating to avoid any issues⚠️</p>
 
 ### 2️⃣ Open BIMIL Manager
 
