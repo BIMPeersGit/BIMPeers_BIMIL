@@ -42,9 +42,10 @@
   * [Add From File](add-ins/excel-link/add-from-file.md)
   * [Add From Clipboard](add-ins/excel-link/add-from-clipboard.md)
   * [Version History](add-ins/excel-link/version-history.md)
-* [📢 Excel Sync (25-07-23)](add-ins/excel-sync-25-07-23/README.md)
-  * [How to Use](add-ins/excel-sync-25-07-23/how-to-use.md)
-  * [Version History](add-ins/excel-sync-25-07-23/version-history.md)
+* [📢 Excel Sync](add-ins/excel-sync/README.md)
+  * [Installation](add-ins/excel-sync/installation.md)
+  * [How to Use](add-ins/excel-sync/how-to-use.md)
+  * [Version History](add-ins/excel-sync/version-history.md)
 * [Filter+ Basic](add-ins/filter-plus-basic/README.md)
   * [Category Filter](add-ins/filter-plus-basic/category-filter.md)
   * [Material Filter](add-ins/filter-plus-basic/material-filter.md)
@@ -103,7 +104,9 @@
 ## Notices
 
 * [📢 25-07-21](notices/25-07-21.md)
+* [25-07-21](notices/25-07-21-1.md)
 * [25-07-16](notices/25-07-16.md)
+* [Copy of 25-07-16](notices/copy-of-25-07-16.md)
 * [Notices Archive](notices/notices-archive/README.md)
   * [25-07-14](notices/notices-archive/25-07-14.md)
   * [25-07-08](notices/notices-archive/25-07-08.md)
