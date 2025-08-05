@@ -14,7 +14,7 @@ No more navigating through dozens of schedules or complex property windows — j
 
 Whether you're updating thousands of instance parameters or tweaking type values across multiple families, Excel Sync streamlines the process and reduces human error.
 
-<figure><img src="../../.gitbook/assets/Excel Sync.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/IJ_h3PicMOk" %}
 
 ## ✅ Features
 
