@@ -103,9 +103,10 @@
 
 ## Notices
 
-* [📢 25-07-23](notices/25-07-23.md)
-* [25-07-16](notices/25-07-16.md)
+* [📢 25-08-14](notices/25-08-14.md)
+* [25-07-23](notices/25-07-23.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [25-07-16](notices/notices-archive/25-07-16.md)
   * [25-07-21](notices/notices-archive/25-07-21.md)
   * [25-07-14](notices/notices-archive/25-07-14.md)
   * [25-07-08](notices/notices-archive/25-07-08.md)
