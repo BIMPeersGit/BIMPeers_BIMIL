@@ -79,7 +79,7 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 
 ### **Model Lines**
 
-* **Delete Model Lines not associated with any element** \
+* **Delete Model Lines not associated with any elements**  _<mark style="color:red;">(In development)</mark>_\
   →  Deletes model lines not tied to geometry.
 {% endtab %}
 
