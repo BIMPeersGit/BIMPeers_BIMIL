@@ -4,7 +4,7 @@ description: >-
   and re-import them to update your Revit model.
 ---
 
-# 📢 Excel Sync
+# Excel Sync
 
 ## 📌 **What is Excel Sync?**
 
