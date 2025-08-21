@@ -38,8 +38,6 @@ It allows you to **selectively remove unnecessary elements** from your Revit mod
 * Avoid conflicts and clutter from unnecessary elements
 * Need to deliver clean, optimized models before and after handover
 
-<p align="center">⚠️ Please make sure Revit is closed before updating to avoid any issues⚠️</p>
-
 ***
 
 ### 💡 **Why Cleaning Service?**
