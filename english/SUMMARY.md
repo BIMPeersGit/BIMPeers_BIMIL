@@ -106,7 +106,7 @@
     * [7. How to use Gallery](archi-film/tutorial/7.-how-to-use-gallery.md)
     * [8. How to use Credits, Feedback](archi-film/tutorial/8.-how-to-use-credits-feedback.md)
   * [Version History](archi-film/version-history.md)
-* [ArchiFilm Beta (Closed)](archi-film-1/README.md)
+* [ArchiFilm Beta (Opening soon)](archi-film-1/README.md)
   * [Manual](archi-film-1/manual/README.md)
     * [(A) Credit, Send Feedback](archi-film-1/manual/a-credit-send-feedback.md)
     * [(B) Hub, Preset List](archi-film-1/manual/b-hub-preset-list.md)
