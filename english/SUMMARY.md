@@ -106,6 +106,20 @@
     * [7. How to use Gallery](archi-film/tutorial/7.-how-to-use-gallery.md)
     * [8. How to use Credits, Feedback](archi-film/tutorial/8.-how-to-use-credits-feedback.md)
   * [Version History](archi-film/version-history.md)
+* [ArchiFilm Beta (Closed)](archi-film-1/README.md)
+  * [Manual](archi-film-1/manual/README.md)
+    * [(A) Credit, Send Feedback](archi-film-1/manual/a-credit-send-feedback.md)
+    * [(B) Hub, Preset List](archi-film-1/manual/b-hub-preset-list.md)
+    * [(C) Canvas, Settings](archi-film-1/manual/c-canvas-settings.md)
+    * [(D) Image, Gallery](archi-film-1/manual/d-image-gallery.md)
+  * [Tutorial](archi-film-1/tutorial/README.md)
+    * [1. How to use top 3 Images](archi-film-1/tutorial/1.-how-to-use-top-3-images.md)
+    * [2. How to use ArchiFilm Hub](archi-film-1/tutorial/2.-how-to-use-archifilm-hub.md)
+    * [3. How to use Canvas](archi-film-1/tutorial/3.-how-to-use-canvas.md)
+    * [4. How to use Presets](archi-film-1/tutorial/4.-how-to-use-presets.md)
+    * [5. How to Generated Images](archi-film-1/tutorial/5.-how-to-generated-images.md)
+    * [6. How to use Credits, Feedback](archi-film-1/tutorial/6.-how-to-use-credits-feedback.md)
+  * [Version History](archi-film-1/version-history.md)
 
 ## Notices
 
