@@ -1,5 +1,6 @@
 ---
 description: Fast, AI-Powered Rendering for Revit Scenes
+hidden: true
 ---
 
 # ArchiFilm (Closed)
