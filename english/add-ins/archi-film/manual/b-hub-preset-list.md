@@ -1,6 +1,6 @@
 # (B) Hub, Preset List
 
-<figure><img src="../../.gitbook/assets/(B).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/(B).jpg" alt=""><figcaption></figcaption></figure>
 
 The Left Panel is designed to provide quick access to inspiration and your saved workflows.
 

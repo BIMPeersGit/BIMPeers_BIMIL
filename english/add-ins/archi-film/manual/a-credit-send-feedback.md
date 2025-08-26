@@ -1,6 +1,6 @@
 # (A) Credit, Send Feedback
 
-<figure><img src="../../.gitbook/assets/(A) (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/(A) (2).jpg" alt=""><figcaption></figcaption></figure>
 
 The Top Bar provides important information about the ArchiFilm version, your usage credits, and a way to communicate with the developers.
 
