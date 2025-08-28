@@ -2,10 +2,10 @@
 description: Fast, AI-Powered Rendering for Revit Scenes
 ---
 
-# ArchiFilm Beta (Opening soon)
+# ArchiFilm(beta) - Opening soon
 
 {% hint style="warning" %}
-**ArchiFlim Beta Open Notice**
+ArchiFilm<sup>beta</sup> **Open Notice**
 
 🗓️ **Beta Test Period**\
 ▸ **Monday, September 1, 2025 at 4:00 AM (UTC)**\
