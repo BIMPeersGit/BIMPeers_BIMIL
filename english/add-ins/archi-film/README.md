@@ -10,7 +10,7 @@ ArchiFilm<sup>beta</sup> **Open Notice**
 🗓️ **Beta Test Period**\
 ▸ **Monday, September 1, 2025 at 4:00 AM (UTC)**\
 ▸ **to Tuesday, September 30, 2025 at 12:00 AM (UTC)**\
- (**KST:** June 9 at 1:00 PM \~ June 23 at 09:00 AM)
+ (**KST:** September 1 at 1:00 PM \~ September 30 at 09:00 AM)
 {% endhint %}
 
 **ArchiFilm** is a smart Revit add-in that turns your 3D model views into high-quality, presentation-ready renderings—instantly. Without exporting to external software or relying on CG studios, you can now generate compelling visuals directly from your Revit scenes.
