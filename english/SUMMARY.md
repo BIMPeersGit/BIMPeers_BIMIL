@@ -123,8 +123,10 @@
 
 ## Notices
 
-* [📢 25-08-21](notices/25-08-21.md)
+* [📢 25-09-01](notices/25-09-01.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [25-08-29](notices/notices-archive/25-08-29.md)
+  * [25-08-21](notices/notices-archive/25-08-21.md)
   * [25-08-18](notices/notices-archive/25-08-18.md)
   * [25-08-14](notices/notices-archive/25-08-14.md)
   * [25-07-23](notices/notices-archive/25-07-23.md)
