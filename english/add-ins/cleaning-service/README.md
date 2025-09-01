@@ -1,4 +1,4 @@
-# 📢 Cleaning Service
+# Cleaning Service
 
 {% hint style="info" %}
 ### **Requirements**

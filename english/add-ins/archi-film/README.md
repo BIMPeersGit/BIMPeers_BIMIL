@@ -2,7 +2,7 @@
 description: Fast, AI-Powered Rendering for Revit Scenes
 ---
 
-# ArchiFilm(beta) - Opening soon
+# 📢 ArchiFilm(beta)
 
 {% hint style="warning" %}
 ArchiFilm<sup>beta</sup> **Open Notice**

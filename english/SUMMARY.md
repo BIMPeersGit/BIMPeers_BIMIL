@@ -17,7 +17,7 @@
 ## Add-ins
 
 * [Introduction](add-ins/introduction.md)
-* [ArchiFilm(beta)](add-ins/archi-film/README.md)
+* [📢 ArchiFilm(beta)](add-ins/archi-film/README.md)
   * [Manual](add-ins/archi-film/manual/README.md)
     * [(A) Credit, Send Feedback](add-ins/archi-film/manual/a-credit-send-feedback.md)
     * [(B) Hub, Preset List](add-ins/archi-film/manual/b-hub-preset-list.md)
@@ -52,7 +52,7 @@
 * [Box to View](add-ins/box-to-view/README.md)
   * [How to Use](add-ins/box-to-view/how-to-use.md)
   * [Version History](add-ins/box-to-view/version-history.md)
-* [📢 Cleaning Service](add-ins/cleaning-service/README.md)
+* [Cleaning Service](add-ins/cleaning-service/README.md)
   * [Cleaning Service](add-ins/cleaning-service/cleaning-service.md)
   * [Family Cleaner](add-ins/cleaning-service/family-cleaner.md)
   * [Spatial Cleaner](add-ins/cleaning-service/spatial-cleaner.md)
@@ -126,7 +126,7 @@
 * [📢 25-09-01](notices/25-09-01.md)
 * [Notices Archive](notices/notices-archive/README.md)
   * [25-08-29](notices/notices-archive/25-08-29.md)
-  * [25-08-21](notices/notices-archive/25-08-21.md)
+  * [25-08-21](notices/25-08-21.md)
   * [25-08-18](notices/notices-archive/25-08-18.md)
   * [25-08-14](notices/notices-archive/25-08-14.md)
   * [25-07-23](notices/notices-archive/25-07-23.md)
