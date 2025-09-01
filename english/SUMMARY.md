@@ -17,7 +17,7 @@
 ## Add-ins
 
 * [Introduction](add-ins/introduction.md)
-* [ArchiFilm(beta) - Opening soon](add-ins/archi-film/README.md)
+* [ArchiFilm(beta)](add-ins/archi-film/README.md)
   * [Manual](add-ins/archi-film/manual/README.md)
     * [(A) Credit, Send Feedback](add-ins/archi-film/manual/a-credit-send-feedback.md)
     * [(B) Hub, Preset List](add-ins/archi-film/manual/b-hub-preset-list.md)
