@@ -1,5 +1,17 @@
 # Version History
 
+### v1.2.1.0 (2025-09-01)
+
+* Optimizing User Registration and Profile Management Flow
+
+### v1.1.9.0 (2025-08-18)
+
+* Core update for BIMIL add-ins, improved notifications
+
+### v1.1.8.0 (2025-07-23)
+
+* Improved login persistence when returning from sleep mode
+
 ### v1.1.7.0 (2025-06-23)
 
 * Added "My Add-ins" tab, "Update All" button, and "add-in list refresh" button
