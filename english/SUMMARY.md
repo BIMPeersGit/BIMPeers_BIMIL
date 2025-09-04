@@ -30,6 +30,7 @@
     * [4. How to use Presets](add-ins/archi-film/tutorial/4.-how-to-use-presets.md)
     * [5. How to Generated Images](add-ins/archi-film/tutorial/5.-how-to-generated-images.md)
     * [6. How to use Credits, Feedback](add-ins/archi-film/tutorial/6.-how-to-use-credits-feedback.md)
+    * [7. How to use Prompt Boost](add-ins/archi-film/tutorial/7.-how-to-use-prompt-boost.md)
   * [Version History](add-ins/archi-film/version-history.md)
 * [Auto Dimension](add-ins/auto-dimension/README.md)
   * [Settings - Dimensions](add-ins/auto-dimension/settings-dimensions.md)
