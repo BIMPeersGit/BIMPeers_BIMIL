@@ -9,7 +9,7 @@ ArchiFilm<sup>beta</sup> **Open Notice**
 
 🗓️ **Beta Test Period**\
 ▸ **Monday, September 1, 2025 at 4:00 AM (UTC)**\
-▸ **to Tuesday, September 30, 2025 at 11:59 AM (UTC)**\
+▸ **to Tuesday, September 30, 2025 at 11:59 PM (UTC)**\
  (**KST:** September 1 at 1:00 PM \~ October 01 at 08:59 AM)
 {% endhint %}
 
