@@ -44,6 +44,7 @@
   * [Run Unjoin](add-ins/auto-join/run-unjoin.md)
   * [Version History](add-ins/auto-join/version-history.md)
 * [Auto Tag](add-ins/auto-tag/README.md)
+  * [Settings](add-ins/auto-tag/settings.md)
   * [Version History](add-ins/auto-tag/version-history.md)
 * [Beam to Slab](add-ins/beam-to-slab/README.md)
   * [Select elements](add-ins/beam-to-slab/select-elements.md)
