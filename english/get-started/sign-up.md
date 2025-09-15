@@ -16,28 +16,33 @@ Please check your **internet connection**.&#x20;
    \- Create your password. Re-enter the same password in the field below to confirm.
 3. **First Name / Last Name** :\
    \- Enter your First Name / Last Name.&#x20;
-4. **Company (optional)** : \
-   \- Enter your company name (optional). You can leave this blank if you are not affiliated with a company.
-5. **Role (optional)** :\
-   \- Enter your role (e.g., Staff, Manager, Team Leader, CEO, etc.). This field is also optional.
-6. **Agreement** : \
+4. **Country :**\
+   **-** Select your country from the dropdown list.
+5. **Company (optional)** : \
+   \- Enter your company name (optional). You can leave this blank if you are not affiliated with a company. This field is also optional.
+6. **Industry :**\
+   **-** Select your industry from the dropdown list (e.g., Architecture, Engineering, Construction).
+7. **Role** :\
+   \- Choose your role (e.g., Staff, Manager, Team Leader, CEO, etc.).
+8. **Agreement** : \
    \- **Terms and Service** :  You must agree to the terms and conditions.\
    \- **Privacy Policy** :  You must agree to the privacy policy.\
    \- Marketing Emails(optional) : Opt-in to receive marketing emails and offers.
-7. **Submit** Button : \
-   \- After filling out all the required fields and agreeing to the terms, click the Submit button to proceed.
-
-<figure><img src="../.gitbook/assets/Sign Up.png" alt="" width="375"><figcaption></figcaption></figure>
-
-8. **Verification Code**\
-   \- Enter the verification code you received **via email**. You will receive the code at the email address you entered in Marker ❶.
 9. **Submit** Button : \
-   \- After entering the verification code, click the Submit button to complete the verification process.
-10. Resend Email : \
+   \- Once all required fields are filled and agreements are checked, click **Submit** to complete the sign-up process.\
+   \- If you already have an account, click **Sign In** at the bottom of the page.
+
+<figure><img src="../.gitbook/assets/SignUP.png" alt="" width="375"><figcaption></figcaption></figure>
+
+10. **Verification Code**\
+    \- Enter the verification code you received **via email**. You will receive the code at the email address you entered in Marker ❶.
+11. **Submit** Button : \
+    \- After entering the verification code, click the Submit button to complete the verification process.
+12. Resend Email : \
     \- If you didn't receive the email, click the Resend Email link to receive the verification code again.
 
-<figure><img src="../.gitbook/assets/Verification Code.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Verfication (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-11. The "Registration Complete" message indicates that your registration has been successfully completed.
+13. The "Registration Complete" message indicates that your registration has been successfully completed.
 
-<figure><img src="../.gitbook/assets/complete.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt="" width="271"><figcaption></figcaption></figure>
