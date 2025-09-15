@@ -1,5 +1,9 @@
 # Version History
 
+### v1.2.2.0(2025-09-15)&#x20;
+
+* Optimized for Revit
+
 ### v1.2.1.0(2025-06-25)&#x20;
 
 * Bug fixes

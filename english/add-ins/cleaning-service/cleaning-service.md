@@ -38,8 +38,8 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 {% tab title="Basics+" %}
 ### Families&#x20;
 
-* Optimize used families by purging unused types/materials  _<mark style="color:red;">(In development)</mark>_\
-  →  This feature is currently under development and will be available in a future release.
+* <mark style="background-color:yellow;">**Optimize used families by purging unused types/materials**</mark> \
+  <mark style="color:red;">→  May take a long time as each family is purged and reloaded.</mark>
 
 ### **Groups**
 
@@ -79,7 +79,7 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 
 ### **Model Lines**
 
-* **Delete Model Lines not associated with any elements**  _<mark style="color:red;">(In development)</mark>_\
+* <mark style="background-color:yellow;">**Delete Model Lines not associated with any elements**</mark>\
   →  Deletes model lines not tied to geometry.
 {% endtab %}
 
@@ -116,33 +116,32 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 {% tab title="Links" %}
 ### **Revit Link**
 
-* **Delete all Revit links** \
-  →  Deletes all Revit link instances and types.
-* **Delete unloaded/missing Revit Links** \
-  →  Deletes broken or unloaded Revit links.
-
-**CAD Link & Import**
-
-* **Delete all CAD links** \
-  →  Deletes all linked DWG/DXF files.
-* **Delete unloaded/missing CAD Links** \
-  →  Deletes broken or unloaded CAD links.
-* **Delete all CAD Imports** \
-  →  Deletes all imported CAD geometry from the model.
-
-**Image Link & Import**
-
-* **Delete all Image Imports** \
-  →  Deletes all embedded or linked images.
-*   **Delete unused Image Imports**&#x20;
-
-    →  Deletes images not placed on any view/sheet.
+* **Delete Revit links** \
+  (Option 1) All Revit Links → Deletes all Revit link instances and types.\
+  (Option 2) Only unloaded/missing → Deletes unloaded or missing Revit links.
 
 **Point Clouds**
 
 *   **Delete all Point Clouds**&#x20;
 
     →  Deletes all point cloud instances and types.
+
+**CAD Link & Import**
+
+* **Delete CAD links** \
+  (Option 1) All CAD Links → Deletes all linked DWG/DXF files.\
+  (Option 2) Only unloaded/missing → Deletes unloaded or missing CAD links.
+* **Delete all CAD Imports** \
+  →  Deletes all imported CAD geometry from the model.
+
+**Image Link & Import**
+
+* **Delete all Image Links**\
+  (Option 1) All Image Links → Deletes all linked images.\
+  (Option 2) Only unused → Deletes linked images not placed on any view/sheet.
+* **Delete all Image Imports** \
+  (Option 1) All Image Imports → Deletes all Imported images.\
+  (Option 2) Only unused → Deletes Imported images not placed on any view/sheet.
 {% endtab %}
 {% endtabs %}
 

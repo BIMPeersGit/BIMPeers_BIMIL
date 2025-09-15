@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Color by Project** feature allows users to assign different colors to tabs based on their respective projects, improving visual organization and clarity.
 
