@@ -18,7 +18,7 @@
 
 <figure><img src="../../.gitbook/assets/IDs_UI (1).png" alt="" width="308"><figcaption></figcaption></figure>
 
-1. Select
+1. **Select**
    * Enter known element IDs in the input box and click **Select**.\
      → The corresponding elements will be highlighted in the model.
    * Selected IDs are also saved in **History** for later use.
