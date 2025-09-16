@@ -30,7 +30,7 @@
     * You can re-select IDs directly from history to quickly locate elements again.
     *
 
-        <div align="left"><figure><img src="../../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
+        <div align="left"><figure><img src="../../.gitbook/assets/image (2) (2).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 
 4. **Insert ID into Parameter (✨New Feature)**

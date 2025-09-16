@@ -1,6 +1,6 @@
 # Log-in
 
-If you haven't signed up yet, please do so [before proceeding](sign-up.md)!
+If you haven't signed up yet, please do so [before proceeding](sign-up.md)! Click (marker ⓿)
 
 {% hint style="warning" %}
 Please check your **internet connection**.&#x20;
@@ -16,7 +16,7 @@ Please check your **internet connection**.&#x20;
 4. Sign in Button\
    \- Click this button to log into your account.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Log-in (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Forgot Password?
 
@@ -24,4 +24,4 @@ Please check your **internet connection**.&#x20;
 \- Type in the email address associated with your account. (marker❻) and Click "Reset Password" (marker❼).\
 \- A new password will be sent to your email. Log in with the new password and change it afterward.
 
-<figure><img src="../.gitbook/assets/Forgot Password.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ForgotPW.png" alt="" width="375"><figcaption></figcaption></figure>

@@ -8,11 +8,20 @@
 * [Download](get-started/download.md)
 * [Install BIMIL Manager](get-started/install-bimil-manager.md)
 * [🔎 Check & Update BIMIL Manager Version](get-started/check-and-update-bimil-manager-version.md)
-* [Sign-up](get-started/sign-up.md)
-* [Log-in](get-started/log-in.md)
-* [How to install the Add-in](get-started/how-to-install-the-add-in.md)
-* [User Interface](get-started/user-interface.md)
-* [Uninstall](get-started/uninstall.md)
+
+## Account
+
+* [Sign-up](account/sign-up.md)
+* [Log-in](account/log-in.md)
+* [Account & Profile Settings](account/account-and-profile-settings.md)
+* [Change Password](account/change-password.md)
+
+## Using BIMIL
+
+* [How to install the Add-in](using-bimil/how-to-install-the-add-in.md)
+* [User Interface](using-bimil/user-interface.md)
+* [Uninstall](using-bimil/uninstall.md)
+* [👬 Invite Your Friend](using-bimil/invite-your-friend.md)
 
 ## Add-ins
 

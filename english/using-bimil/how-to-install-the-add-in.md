@@ -2,12 +2,12 @@
 
 ## Prerequisites
 
-1. [Download](download.md) the lastest version of BIMIL.&#x20;
-2.  [Install](install-bimil-manager.md) BIMIL Manager.
+1. [Download](../get-started/download.md) the lastest version of BIMIL.&#x20;
+2.  [Install](../get-started/install-bimil-manager.md) BIMIL Manager.
 
     a. Click the "BIMIL" button created on the desktop.
-3. [Sign-up](sign-up.md)
-4. [Log-in](log-in.md)
+3. [Sign-up](../account/sign-up.md)
+4. [Log-in](../account/log-in.md)
 5. [Add-in Installation](how-to-install-the-add-in.md#add-in-installation)
 
 ***

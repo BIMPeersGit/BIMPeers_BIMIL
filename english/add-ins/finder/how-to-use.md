@@ -15,7 +15,7 @@
 * In the Finder window, you can check the selected element’s **Category, Family, Type, and Element ID**.
 * The tool will automatically display its **location information** such as Grid, Level (Ref./Geo.), Room, Space, and Area.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="322"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt="" width="322"><figcaption></figcaption></figure>
 
 ### UI Features
 
