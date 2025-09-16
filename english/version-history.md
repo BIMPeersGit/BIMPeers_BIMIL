@@ -1,5 +1,9 @@
 # Version History
 
+### v1.2.2.0 (2025-09-15)
+
+* Fixed ArchiFilm installation issue/ Added Quick Invite
+
 ### v1.2.1.0 (2025-09-01)
 
 * Optimizing User Registration and Profile Management Flow
