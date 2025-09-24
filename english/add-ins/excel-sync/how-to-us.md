@@ -1,4 +1,4 @@
-# How to Use
+# How to Us
 
 ### 1️⃣ Start Excel Sync
 
@@ -11,9 +11,13 @@
 \- In the main window, choose what kind of data you want to work with. There are three tabs available:\
 &#x20;  • Model – for physical model elements\
 &#x20;  • Annotation – for tags, dimensions, and text\
-&#x20;  • Analytical Model – for structural analysis elements
+&#x20;  • Analytical Model – for structural analysis elements\
+&#x20;  • <mark style="background-color:yellow;">Schedule (ver 1.0.1.0+) – for creating, editing, applying, or exporting Revit schedules in  Excel format</mark>
 
-Select the desired tab and check the categories or individual elements you want to edit.
+<figure><img src="../../.gitbook/assets/Excel Sync 5 (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+Select the desired tab and check the categories or individual elements you want to edit.\
+<mark style="background-color:yellow;">You can now also enable checkboxes for elements from Linked Models (view only, v1.0.1.0+).</mark>
 
 <figure><img src="../../.gitbook/assets/Model, Annotation, Analytical Model.gif" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -43,6 +47,8 @@ Choose which parameters to modify:\
 * ![](<../../.gitbook/assets/Instance_12_Light (1).png>)  Instance: Values vary by individual element.
 * ![](<../../.gitbook/assets/Icon_12_Type (1).png>)  Type: Shared values across elements of the same type.
 * ![](../../.gitbook/assets/ReadOnly_12_Light.png)  Read-Only: Cannot be modified.
+* <img src="../../.gitbook/assets/Linked_12_Light (6) (1).png" alt="" data-size="line">  Linked included (v1.0.1.0+) – Parameters coming from Linked Models (view only)
+* <img src="../../.gitbook/assets/ScheduleParam_12_Light (1).png" alt="" data-size="line">  **Schedule-Only** _(v1.0.1.0+)_ – Parameters that are exclusive to the Schedule tab.
 
 These labels help you quickly identify which parameters can be edited.
 
@@ -50,11 +56,30 @@ These labels help you quickly identify which parameters can be edited.
 
 ### 5️⃣ Choose Export or Edit
 
-After [selecting elements](how-to-use.md#id-3-select-target-elements) and [parameters](how-to-use.md#id-4-select-parameters):
+After [selecting elements](how-to-us.md#id-3-select-target-elements) and [parameters](how-to-us.md#id-4-select-parameters):
 
 ➀ Export : Exports the selected parameter values to an Excel file. The file will open automatically.
 
 <figure><img src="../../.gitbook/assets/export.gif" alt="" width="563"><figcaption></figcaption></figure>
+
+#### &#x20;<mark style="background-color:yellow;">※ Export Options (Schedule Only)</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">(v1.0.1.0+)</mark>_
+
+These options are available **only when exporting from the Schedule tab**.
+
+* **Export in Schedule Format**
+  * Exports in the same format as a Revit schedule.
+  * Files exported in this format <mark style="color:red;">**cannot be re-imported**</mark> into Excel Sync.
+* **Exclude unit from values**
+  * Exports parameter values without unit symbols.
+
+> ⚠️ **Exporting with Linked Models**
+>
+> * In **Model / Annotation / Analytical Model tabs**, linked elements are always included when exporting.
+> * In the **Schedule tab**, behavior depends on the option:
+>   * _Schedule Format_ → Linked elements included
+>   * _Exclude unit from values_ → Linked elements excluded (only current model elements shown)
+
+<figure><img src="../../.gitbook/assets/image (59).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ➁ Edit : Opens a spreadsheet-style interface directly in Revit for fast, in-app editing.
 

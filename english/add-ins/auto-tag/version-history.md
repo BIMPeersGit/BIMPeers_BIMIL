@@ -1,5 +1,9 @@
 # Version History
 
+### v1.2.3.0(2025-09-24)&#x20;
+
+* Bug fixes
+
 ### v1.2.2.0(2025-09-15)&#x20;
 
 * Add option for Show "Tag Update" button on Modify tab

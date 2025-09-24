@@ -75,7 +75,7 @@
   * [Version History](add-ins/excel-link/version-history.md)
 * [Excel Sync](add-ins/excel-sync/README.md)
   * [Installation](add-ins/excel-sync/installation.md)
-  * [How to Use](add-ins/excel-sync/how-to-use.md)
+  * [How to Us](add-ins/excel-sync/how-to-us.md)
   * [Version History](add-ins/excel-sync/version-history.md)
 * [Filter+ Basic](add-ins/filter-plus-basic/README.md)
   * [Category Filter](add-ins/filter-plus-basic/category-filter.md)
