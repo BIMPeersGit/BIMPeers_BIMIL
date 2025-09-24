@@ -28,12 +28,7 @@ Choose how to gather elements:
 * &#x20;All : All elements in the model
 * &#x20;Active View: Only elements visible in the current view
 * &#x20;Selected Elements: Only elements you’ve pre-selected in the model
-
-{% hint style="info" %}
-Note: \
-The “Include Link Models” checkbox is currently disabled. \
-This feature will be available in a future update!
-{% endhint %}
+* <mark style="background-color:yellow;">Include Linked Models (v1.0.1.0+): Option to also include elements from Linked Models (view only)</mark>
 
 <figure><img src="../../.gitbook/assets/All, Active View, Selected Element.gif" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -47,8 +42,8 @@ Choose which parameters to modify:\
 * ![](<../../.gitbook/assets/Instance_12_Light (1).png>)  Instance: Values vary by individual element.
 * ![](<../../.gitbook/assets/Icon_12_Type (1).png>)  Type: Shared values across elements of the same type.
 * ![](../../.gitbook/assets/ReadOnly_12_Light.png)  Read-Only: Cannot be modified.
-* <img src="../../.gitbook/assets/Linked_12_Light (6) (1).png" alt="" data-size="line">  Linked included (v1.0.1.0+) – Parameters coming from Linked Models (view only)
-* <img src="../../.gitbook/assets/ScheduleParam_12_Light (1).png" alt="" data-size="line">  **Schedule-Only** _(v1.0.1.0+)_ – Parameters that are exclusive to the Schedule tab.
+* <img src="../../.gitbook/assets/Linked_12_Light (6) (1).png" alt="" data-size="line">  <mark style="background-color:yellow;">Linked included (v1.0.1.0+): Parameters coming from Linked Models (view only)</mark>
+* <img src="../../.gitbook/assets/ScheduleParam_12_Light (1).png" alt="" data-size="line">  <mark style="background-color:yellow;">Schedule-Only</mark> _<mark style="background-color:yellow;">(v1.0.1.0+):</mark>_ <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">Parameters that are exclusive to the Schedule tab.</mark>
 
 These labels help you quickly identify which parameters can be edited.
 
