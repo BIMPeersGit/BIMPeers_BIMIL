@@ -136,15 +136,16 @@
 
 ## Notices
 
+* [25-10-01](notices/25-10-01.md)
 * [📢 25-09-24](notices/25-09-24.md)
-* [25-09-15](notices/25-09-15.md)
 * [Notices Archive](notices/notices-archive/README.md)
   * [25-09-23](notices/notices-archive/25-09-23.md)
-  * [25-09-01](notices/notices-archive/25-09-01.md)
+  * [25-09-15](notices/notices-archive/25-09-15.md)
   * [25-09-05](notices/notices-archive/25-09-05.md)
   * [25-09-04](notices/notices-archive/25-09-04.md)
   * [25-09-03](notices/notices-archive/25-09-03.md)
   * [25-09-02](notices/notices-archive/25-09-02.md)
+  * [25-09-01](notices/notices-archive/25-09-01.md)
   * [25-08-29](notices/notices-archive/25-08-29.md)
   * [25-08-21](notices/25-08-21.md)
   * [25-08-18](notices/notices-archive/25-08-18.md)
