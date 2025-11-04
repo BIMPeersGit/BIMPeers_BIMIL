@@ -21,4 +21,4 @@ to see the latest version of the Excel Sync Add-in.
 
 \- In BIMIL Manager, locate Excel Sync in the Add-ins list and click \[Install] to begin using it.
 
-### [▶️ Learn how to use Excel Sync](how-to-us.md)
+### [▶️ Learn how to use Excel Sync](how-to-use.md)

@@ -1,4 +1,4 @@
-# How to Us
+# How to Use
 
 ### 1️⃣ Start Excel Sync
 
@@ -51,7 +51,7 @@ These labels help you quickly identify which parameters can be edited.
 
 ### 5️⃣ Choose Export or Edit
 
-After [selecting elements](how-to-us.md#id-3-select-target-elements) and [parameters](how-to-us.md#id-4-select-parameters):
+After [selecting elements](how-to-use.md#id-3-select-target-elements) and [parameters](how-to-use.md#id-4-select-parameters):
 
 ➀ Export : Exports the selected parameter values to an Excel file. The file will open automatically.
 
