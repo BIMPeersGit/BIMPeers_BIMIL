@@ -9,10 +9,8 @@ Smart Tab View allows users to customize the appearance and functionality of tab
 ## Features
 
 * [**Color by Project**:](color-by-project.md)\
-  Assign different colors to tabs based on projects. Users can change the background color or border color, with border thickness adjustable from 1 to 5 pixels. Up to 8 distinct colors can be applied to distinguish between tabs.\
-
-* [**Tab Menu**:\
-  ](tab-menu.md)Enable additional options through the context menu by activating the setting. Once enabled, right-clicking on a tab displays the following actions:
+  Assign different colors to tabs based on projects. Users can change the background color or border color, with border thickness adjustable from 1 to 5 pixels. Up to 8 distinct colors can be applied to distinguish between tabs.<br>
+* [**Tab Menu**:<br>](tab-menu.md)Enable additional options through the context menu by activating the setting. Once enabled, right-clicking on a tab displays the following actions:
   * **Open document folder**: Opens the file location of the document.
   * **Copy document path to clipboard**: Copies the file's full path.
   * **Close view**: Closes the currently active tab.

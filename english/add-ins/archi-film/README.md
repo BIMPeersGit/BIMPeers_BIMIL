@@ -9,7 +9,7 @@ description: Fast, AI-Powered Rendering for Revit Scenes
 
 The Beta has ended. Thank you for joining — see you again on **November 17** with the next stage.
 
-[👉 See What’s Coming Next](../../notices/25-10-01.md)
+[👉 See What’s Coming Next](../../notices/notices-archive/25-10-01.md)
 {% endhint %}
 
 **ArchiFilm** is a smart Revit add-in that turns your 3D model views into high-quality, presentation-ready renderings—instantly. Without exporting to external software or relying on CG studios, you can now generate compelling visuals directly from your Revit scenes.

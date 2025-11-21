@@ -17,10 +17,9 @@ The **Shape Cutter** add-in simplifies the process of separating disjointed prof
   The add-in identifies disjointed profiles within each selected element. Profiles that are geometrically separate are treated as individual components during processing.
 *   **Separation Process**:
 
-    Each disjointed profile is converted into a separate element. The resulting elements inherit geometry and parameter data based on the original elements, depending on the 'Shape Cutter Setting' configurations:\
+    Each disjointed profile is converted into a separate element. The resulting elements inherit geometry and parameter data based on the original elements, depending on the 'Shape Cutter Setting' configurations:<br>
 
-
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
     * **Copy Parameters from the original element**: When selected, parameters (instance properties) from the original elements are applied to the newly created elements.
     * **Delete the original element**: If enabled, the original elements are removed after the separation process.

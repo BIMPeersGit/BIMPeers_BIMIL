@@ -1,5 +1,9 @@
 # Version History
 
+### v1.3.0.0 (2025-11-24)
+
+* Added third-party add-in support
+
 ### v1.2.2.0 (2025-09-15)
 
 * Fixed ArchiFilm installation issue/ Added Quick Invite

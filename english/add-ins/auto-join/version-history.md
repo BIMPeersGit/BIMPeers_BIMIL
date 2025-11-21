@@ -1,17 +1,21 @@
 # Version History
 
-### v1.2.1.0(2025-07-08)&#x20;
+### v1.2.2.0 (2025-11-24)
+
+* Added option for "Check in detail".
+
+### v1.2.1.0 (2025-07-08)&#x20;
 
 * UI & UX update
 
-### v1.2.0.0(2025-06-23)&#x20;
+### v1.2.0.0 (2025-06-23)&#x20;
 
 * Revit 2026 supported
 
 ### v1.0.2.0 (2024-11-11)
 
-* Added option for "Allow same category join."
-* Added option for "Allow structural-non structural join."
+* Added option for "Allow same category join".
+* Added option for "Allow structural-non structural join".
 
 ### v1.0.1.1 (2024-10-14)
 

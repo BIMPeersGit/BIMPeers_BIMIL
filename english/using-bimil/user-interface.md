@@ -18,7 +18,7 @@
    \
    To resize the BIMIL application window, hover your mouse over any edge or corner of the window. When the cursor changes to a double-sided arrow, click and drag to adjust the window's size to your preference.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Add-in Description\
    \
@@ -32,7 +32,7 @@
 2. Currently, only English is supported, but more languages will be available in future updates.
 3. The **Remove All Add-ins** button will be explained in [the next section](uninstall.md).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 ### About
 
@@ -40,5 +40,5 @@
 2. **Contact for Issues**: If you have any questions or issues, please email [help@bimpeers.com](mailto:help@bimpeers.com) for assistance.
 3. **More Information**: For detailed information, visit [https://bimil.bimpeers.com](https://bimil.bimpeers.com).
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="338"><figcaption></figcaption></figure>
 

@@ -10,12 +10,12 @@ description: >-
 **Compatibility**
 
 * Windows 10 or higher recommended.
-* Revit 2022, 2023, 2024 and 2025.
+* Revit 2022, 2023, 2024, 2025 and 2026.
 {% endhint %}
 
 ## Installation
 
-1. Run the installer. ( e.g. BIMIL-1.0.7.0\_Release.exe )
+1. Run the installer. ( e.g. BIMIL-1.3.0.0\_Release.exe )
 2. Click the "Install" button.  (❶ marker)&#x20;
 
 <figure><img src="../.gitbook/assets/Install 1.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -24,7 +24,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/Install 2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-4. Check Launch BIMIL v1.0.7.0. (❸ marker)\
+4. Check Launch BIMIL {Version}. (❸ marker)\
    \- If checked, the program will launch automatically after installation.\
    \- Please check your Internet connections.
 5. Click the "Close" button. (❹ marker)&#x20;

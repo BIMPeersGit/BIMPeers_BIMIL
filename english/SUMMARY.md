@@ -114,6 +114,8 @@
 * [Snap View](add-ins/snap-view/README.md)
   * [Snap View Setting](add-ins/snap-view/snap-view-setting.md)
   * [Version History](add-ins/snap-view/version-history.md)
+* [Structure Booster](add-ins/structure-booster/README.md)
+  * [Version History](add-ins/structure-booster/version-history.md)
 
 ***
 
@@ -136,9 +138,10 @@
 
 ## Notices
 
-* [25-10-01](notices/25-10-01.md)
-* [📢 25-09-24](notices/25-09-24.md)
+* [25-11-21](notices/25-11-21.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [25-10-01](notices/notices-archive/25-10-01.md)
+  * [📢 25-09-24](notices/notices-archive/25-09-24.md)
   * [25-09-23](notices/notices-archive/25-09-23.md)
   * [25-09-15](notices/notices-archive/25-09-15.md)
   * [25-09-05](notices/notices-archive/25-09-05.md)
