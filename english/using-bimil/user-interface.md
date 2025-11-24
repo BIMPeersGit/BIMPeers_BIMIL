@@ -32,7 +32,7 @@
 2. Currently, only English is supported, but more languages will be available in future updates.
 3. The **Remove All Add-ins** button will be explained in [the next section](uninstall.md).
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 ### About
 
