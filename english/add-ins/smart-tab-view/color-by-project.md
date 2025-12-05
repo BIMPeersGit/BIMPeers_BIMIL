@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Color by Project** feature allows users to assign different colors to tabs based on their respective projects, improving visual organization and clarity.
 
@@ -35,7 +35,7 @@ When using a **Border** setting, the background color defaults to Revit’s stan
 
 ## Project Color
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Select colors from the preset palette.
 * Supports both light and dark modes.

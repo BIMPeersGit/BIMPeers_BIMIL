@@ -148,8 +148,10 @@
 
 ## Notices
 
-* [25-11-24](notices/25-11-24.md)
+* [25-12-05](notices/25-12-05.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [25-11-24](notices/notices-archive/25-11-24.md)
+  * [25-11-21](notices/notices-archive/25-11-21.md)
   * [25-10-01](notices/notices-archive/25-10-01.md)
   * [📢 25-09-24](notices/notices-archive/25-09-24.md)
   * [25-09-23](notices/notices-archive/25-09-23.md)
@@ -201,7 +203,6 @@
   * [24-11-01](notices/notices-archive/24-11-01.md)
   * [24-10-21](notices/notices-archive/24-10-21.md)
   * [24-10-18](notices/notices-archive/24-10-18.md)
-  * [25-11-21](notices/notices-archive/25-11-21.md)
 
 ## Legal Documents
 

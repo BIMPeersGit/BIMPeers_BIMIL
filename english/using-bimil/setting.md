@@ -1,20 +1,13 @@
 # Setting
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Account
 
 View your account information and credit balance.
 
-### Account Information
-
 * **Name**: Your account name
 * **Account Type**: BIMIL Official or user account
-
-### Credit
-
-* **Balance**: Your current credit amount
-* **History**: Click to view your credit transaction history
 
 ***
 

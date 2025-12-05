@@ -1,6 +1,6 @@
 # Add From File
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="443"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="443"><figcaption></figcaption></figure>
 
 The **Add From File** interface lets you select and configure data from an Excel file for seamless integration into Revit. It provides options to choose a file, specify the worksheet and region, and customize the resulting view settings, all within a single window.
 

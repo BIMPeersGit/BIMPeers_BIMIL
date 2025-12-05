@@ -8,4 +8,4 @@
 4. Re-enter your new password in **Confirm New Password**.
 5. Click **Update Password** to save the changes.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

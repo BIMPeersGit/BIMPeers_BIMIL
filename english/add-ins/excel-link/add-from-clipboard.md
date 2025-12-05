@@ -1,6 +1,6 @@
 # Add From Clipboard
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="443"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="443"><figcaption></figcaption></figure>
 
 The **Add From Clipboard** interface allows users to quickly import data stored in the clipboard and configure it for integration into Revit. This tool provides a simple workflow for inserting data directly into your project without needing an Excel file.
 

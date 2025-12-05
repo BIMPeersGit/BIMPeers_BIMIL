@@ -34,7 +34,7 @@ layout:
 * Make sure to enter a valid email address (e.g., name@company.com).
 * Invitations are sent instantly, but delivery time may depend on the recipient’s email provider.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Directly in Revit (Quick Invite)
 
