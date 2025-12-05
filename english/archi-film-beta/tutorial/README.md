@@ -1,6 +1,6 @@
 # Tutorial
 
-<figure><img src="../../../.gitbook/assets/(0).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/(0).jpg" alt=""><figcaption></figcaption></figure>
 
 This is the **basic interface of ArchiFilm**. Each numbered area corresponds to the following functions:
 

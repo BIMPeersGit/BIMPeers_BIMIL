@@ -1,6 +1,6 @@
 # (D) Image, Gallery
 
-<figure><img src="../../../.gitbook/assets/(D) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/(D) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 The **Right Panel** is where your generated images are displayed and managed.
 

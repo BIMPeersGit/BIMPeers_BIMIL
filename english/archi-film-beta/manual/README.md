@@ -1,6 +1,6 @@
 # Manual
 
-<figure><img src="../../../.gitbook/assets/(M).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/(M).jpg" alt=""><figcaption></figcaption></figure>
 
 Welcome to **ArchiFilm**! This guide will help you navigate the interface and understand its main features.\
 The screen is divided into several key areas:

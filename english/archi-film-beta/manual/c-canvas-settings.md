@@ -1,6 +1,6 @@
 # (C) Canvas, Settings
 
-<figure><img src="../../../.gitbook/assets/(C) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/(C) (1).png" alt=""><figcaption></figcaption></figure>
 
 The **Center Panel** is where you import your Revit model and set parameters for generating your desired image.
 
