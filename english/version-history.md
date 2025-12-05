@@ -1,51 +1,56 @@
 # Version History
 
+### v2.0.0.0 (2025-12-08)
+
+* Complete UI redesign with enhanced layout.
+* Added Notices panel to view notification history.
+
 ### v1.3.0.0 (2025-11-24)
 
-* Added third-party add-in support
+* Added third-party add-in support.
 
 ### v1.2.2.0 (2025-09-15)
 
-* Fixed ArchiFilm installation issue/ Added Quick Invite
+* Fixed ArchiFilm installation issue/ Added Quick Invite.
 
 ### v1.2.1.0 (2025-09-01)
 
-* Optimizing User Registration and Profile Management Flow
+* Optimizing User Registration and Profile Management Flow.
 
 ### v1.1.9.0 (2025-08-18)
 
-* Core update for BIMIL add-ins, improved notifications
+* Core update for BIMIL add-ins, improved notifications.
 
 ### v1.1.8.0 (2025-07-23)
 
-* Improved login persistence when returning from sleep mode
+* Improved login persistence when returning from sleep mode.
 
 ### v1.1.7.0 (2025-06-23)
 
-* Added "My Add-ins" tab, "Update All" button, and "add-in list refresh" button
+* Added "My Add-ins" tab, "Update All" button, and "add-in list refresh" button.
 
 ### v1.1.6.0 (2025-06-09)
 
-* Released ArchiFlim(Alpha ver.) add-in
+* Released ArchiFlim(Alpha ver.) add-in.
 
 ### v1.1.5.0 (2025-05-30)
 
-* Admin-free installation support
-* Login protection (Single-session enforcement)
+* Admin-free installation support.
+* Login protection (Single-session enforcement).
 
 ### v1.1.3.0 (2025-03-31)
 
-* Released Snap View Add-in
-* Improved Auto Tag stability
-* Enhanced BIMIL Manager checks
+* Released Snap View Add-in.
+* Improved Auto Tag stability.
+* Enhanced BIMIL Manager checks.
 
 ### **v1.1.2.0** (2025-03-17)
 
-* Added Feedback button and improved Excel Link Add-in
+* Added Feedback button and improved Excel Link Add-in.
 
 ### **v1.1.0.0** (2025-01-13)
 
-* Added automatic updates
+* Added automatic updates.
 
 ### **v1.0.8.2** (2024-11-13)
 

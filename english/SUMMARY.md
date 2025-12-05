@@ -18,9 +18,10 @@
 
 ## Using BIMIL
 
-* [How to install the Add-in](using-bimil/how-to-install-the-add-in.md)
-* [User Interface](using-bimil/user-interface.md)
-* [Uninstall](using-bimil/uninstall.md)
+* [User Interface Overview](using-bimil/user-interface-overview.md)
+* [Installing Add-ins](using-bimil/installing-add-ins.md)
+* [Managing Installed Add-ins](using-bimil/managing-installed-add-ins.md)
+* [Setting](using-bimil/setting.md)
 * [👬 Invite Your Friend](using-bimil/invite-your-friend.md)
 
 ## Add-ins

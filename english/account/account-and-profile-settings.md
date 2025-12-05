@@ -7,9 +7,7 @@ With the latest BIMIL Manager update, **profile editing has moved to the web** f
 1. **Click your Account Name** in BIMIL Manager.
 2. You’ll be redirected to your **Profile Page**[ **(Web)**](https://bimil.bimpeers.com/account).
 
-<figure><img src="../.gitbook/assets/Account2.png" alt="" width="563"><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 ### Account
 

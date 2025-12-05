@@ -3,11 +3,11 @@
 ## 1. How to Check Your Current Version
 
 1. Open **BIMIL Manager**.
-2. Go to **Setting → About**.
+2. Click **About BIMIL**.
 3. Check the installed **Version** at the top.\
-   📌 Example: Version **1.1.8.0**
+   📌 Example: Version **1.3.1.3**
 
-<figure><img src="../.gitbook/assets/BIMIL Manager.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. How to Update
 
