@@ -1,9 +1,5 @@
 # Version History
 
-### Preview (2025-12-08)
-
-* This is a temporary deployment for testing purposes.
-
 ### v1.2.1.0 (2025-09-15)
 
 * Fixed minor bugs.

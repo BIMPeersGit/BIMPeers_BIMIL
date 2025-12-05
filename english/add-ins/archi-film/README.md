@@ -1,68 +1,83 @@
 ---
-description: Fast, AI-Powered Rendering for Revit Scenes
+description: >-
+  An all-in-one AI rendering studio that imports Revit & SketchUp models and
+  enables generating, editing, and upscaling architectural images in a single
+  seamless workflow.
 ---
 
-# ArchiFilm(beta) - Closed
+# ArchiFilm Studio - Preview
 
 {% hint style="info" %}
-**ArchiFilm**<sup>**beta**</sup>**&#x20;Closed Notice**
+Launch Date: December 8, 2025 @ 04:00 AM (UTC) / 13:00 PM (KST)
 
-The Beta has ended. Thank you for joining — see you again on **November 17** with the next stage.
+\*\*\*\*\*
 
-[👉 See What’s Coming Next](../../notices/notices-archive/25-10-01.md)
+During the free preview period after launch, you can receive 100 free credits.\
+However, if credits are consumed faster than expected, the preview period may end early, and the 100-credit eeeeeeeeeeeeeeeeeoffer may also be discontinued.
+
+\*\*\*\*\*
 {% endhint %}
 
-**ArchiFilm** is a smart Revit add-in that turns your 3D model views into high-quality, presentation-ready renderings—instantly. Without exporting to external software or relying on CG studios, you can now generate compelling visuals directly from your Revit scenes.
+ArchiFilm Studio is an **AI-powered rendering platform** built for architects, designers, and students who need high-quality visual results without the complexity of traditional rendering tools.\
+Import models directly from **Revit and SketchUp**, describe the desired visual style using natural-language prompts, and handle image generation, editing, and smart upscaling **all in one place**.
 
-<figure><img src="../../.gitbook/assets/Frame 1904.jpg" alt=""><figcaption></figcaption></figure>
+No exporting to external software, no heavy rendering setup, no fragmented workflow.\
+**Describe. Generate. Edit. Upscale. Organize.**\
+Everything happens inside ArchiFilm Studio.
 
-## **Features**
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-* **One-Click Rendering with Custom Prompts**\
-  Render any view from your Revit model with just one click. Add prompts to describe desired atmosphere, materials, lighting, or style—ArchiFilm interprets your input to create visually appealing images without the need for manual setup.
-* **Prompt Booster**\
-  Unsure how to phrase your prompt? Use the built-in AI-enhancer to refine and optimize your description for better rendering results—even if you're new to visual scripting.
-* **Multilingual Prompt Support**\
-  Write prompts in any language. ArchiFilm uses GPT-based language models to understand and process instructions in all major languages supported by ChatGPT.
-* **Preset Management**\
-  Save your favorite prompts and rendering settings as **presets**. Easily reuse them across different views or projects to ensure consistency and save time.
-* **Upscaling Generated Images**\
-  Generated images can be upscaled to high-resolution formats—ideal for use in presentations, reports, or design deliverables.
-* **ArchiFilm Hub**\
-  Browse images created by other users. See which prompts and settings were used, and apply them to your own scenes for inspiration or quick testing.
+### **Key Features**
 
-### New Features
+#### **1. Direct Revit & SketchUp Import**
 
-* **Image to Prompt**\
-  Automatically extract descriptive prompts from an image to jumpstart your rendering process.
-* **Image Reference Generation**\
-  Guide your renders with reference images to achieve a specific look, mood, or style.
-* **Model Reference Rendering**\
-  Generate images directly referencing your Revit model for higher fidelity and accurate design output.
-* **Basic Mode & Pro Mode**\
-  Choose **Basic Mode** for simplified one-click control or **Pro Mode** for advanced customization, giving you flexibility based on your workflow and experience level.
+* Preserves camera angles, perspective, and crop settings
+* Instantly sends the selected view to ArchiFilm Studio Web
 
-## **Notes**
+#### **2. Prompt-Based AI Image Generation**
 
-* Works with any 3D view currently active in Revit.
-* Requires internet access for prompt processing and Hub features.
-* Output quality depends on view composition and prompt clarity.
+* Control atmosphere, materials, lighting, and style through text descriptions
+* Generate up to **three results simultaneously**
+
+#### **3. AI Edit**
+
+* Modify specific parts of an image with simple natural-language commands\
+  (e.g., _“Change to night view,” “Remove cars,” “Add more greenery”_)
+* Run up to **three edit jobs in parallel**
+
+#### **4. Smart Upscale**
+
+* Enhances resolution, texture, sharpness, and lighting balance
+* Ideal for presentations, competitions, and portfolio-level output
+
+#### **5. History Management**
+
+* Manage generation / edit / upscale history in a clean visual timeline
+
+#### **6. Prompt Booster**
+
+* Automatically optimizes prompts for better image quality — great for users new to AI prompting.
+
+#### **7. Multilingual Prompting**
+
+* Understands major languages including Korean and English without manual translation.
+
+#### **8. Multi-Task Parallel Processing**
+
+* Generate, edit, and upscale simultaneously with no waiting between tasks.
+
+***
+
+### **Notes**
+
+* Currently available as **Preview**, with ongoing improvements and feature updates
+* Some unexpected variations may occur depending on model complexity or prompt detail
+* Clear model structure and optimized camera views produce more stable results
 
 ## Sample Images
 
-<figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250725185003.jpg" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/2034fcc4-e9e3-4847-8991-db087e08f184.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/35573930-64d4-47a4-927c-f59deb607398.jpg" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250812131712.jpg" alt=""><figcaption></figcaption></figure>
+<div><figure><img src="../../.gitbook/assets/c25de71f-1fdd-49a7-b30e-4d4e8a20fbe8.jpg" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/fd1680fe-b7b4-4368-ba5a-8098acb68c58.jpg" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250725184735.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/ArchiFilm_Image_20250731170043.jpg" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-**System Requirements**
-
-* To install and use **ArchiFlim**, you must have **BIMIL version 1.1.5.0 or higher** installed.
-* Please make sure you’ve updated your BIMIL before installing ArchiFlim.
-
-&#x20;🔗 [Download BIMIL Latest version](https://bimil.bimpeers.com/)
-{% endhint %}
+<figure><img src="../../.gitbook/assets/676d7e9d-5e1e-49df-b130-42f1c0c61581.jpg" alt=""><figcaption></figcaption></figure>
