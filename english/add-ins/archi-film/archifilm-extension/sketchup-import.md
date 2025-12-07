@@ -1,5 +1,14 @@
 # SketchUp Import
 
+### **Import Process from SketchUp to ArchiFilm Studio**
+
+#### **Overview**
+
+ArchiFilm for SketchUp enables users to send their current camera view directly to ArchiFilm Studio with a single click.\
+The extension captures the scene precisely as composed — including camera angle, perspective, and framing — and instantly opens it in the AI rendering workspace.
+
+No exports. No rendering setup. No additional files.
+
 <figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 #### **① Click the ArchiFilm Toolbar Icon**
