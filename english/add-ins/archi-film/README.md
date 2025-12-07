@@ -13,7 +13,7 @@ Launch Date: December 8, 2025 @ 04:00 AM (UTC) / 13:00 PM (KST)
 \*\*\*\*\*
 
 During the free preview period after launch, you can receive 100 free credits.\
-However, if credits are consumed faster than expected, the preview period may end early, and the 100-credit eeeeeeeeeeeeeeeeeoffer may also be discontinued.
+However, if credits are consumed faster than expected, the preview period may end early, and the 100-credit offer may also be discontinued.
 
 \*\*\*\*\*
 {% endhint %}
