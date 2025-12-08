@@ -17,7 +17,7 @@ Before installing add-ins, make sure you have completed the following steps:
 
 After logging in, browse or search for add-ins in the **All Add-ins** page.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. View Add-in Details
 
@@ -30,7 +30,7 @@ Before installing, review the compatibility information in the left panel:
 * **Compatible with**: Check if the add-in supports your software (e.g., Revit, SketchUp)
 * **Versions**: Verify that your software version is supported
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 4. Install the Add-in
 

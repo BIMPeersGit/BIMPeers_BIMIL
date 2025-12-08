@@ -4,7 +4,7 @@
 
 Click **My Add-ins** from the left sidebar to view all your installed add-ins.
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -36,7 +36,7 @@ When a new version of an add-in is available, BIMIL Manager will automatically n
 
 Each installed add-in has a **...** button that provides access to additional management options.
 
-<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Click the **...** button to access:
 

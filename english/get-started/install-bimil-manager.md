@@ -15,7 +15,7 @@ description: >-
 
 ## Installation
 
-1. Run the installer. ( e.g. BIMIL-1.3.0.0\_Release.exe )
+1. Run the installer. ( e.g. BIMIL-2.0.0.0\_Release.exe )
 2. Click the "Install" button.  (❶ marker)&#x20;
 
 <figure><img src="../.gitbook/assets/Install 1.png" alt="" width="375"><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 ## Main Layout
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 The BIMIL Manager window consists of:
 

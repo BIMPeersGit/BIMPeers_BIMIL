@@ -24,7 +24,7 @@ To prevent joining structural and non-structural elements, leave the checkbox un
 
 ### Check in detail
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enables joining of elements that only touch, including edge-to-edge connections.
 

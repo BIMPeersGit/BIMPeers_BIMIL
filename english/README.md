@@ -14,4 +14,4 @@ Visit the BIMIL Homepage.&#x20;
 Watch more on Youtube.
 {% endembed %}
 
-<figure><img src=".gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

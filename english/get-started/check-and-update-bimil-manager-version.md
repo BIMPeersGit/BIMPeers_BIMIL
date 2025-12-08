@@ -5,9 +5,9 @@
 1. Open **BIMIL Manager**.
 2. Click **About BIMIL**.
 3. Check the installed **Version** at the top.\
-   📌 Example: Version **1.3.1.3**
+   📌 Example: **BIMIL v2.0.0.0**
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. How to Update
 
