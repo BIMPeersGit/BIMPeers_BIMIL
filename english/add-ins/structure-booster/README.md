@@ -5,10 +5,6 @@ description: Streamline your structural design workflow with Structure Booster.
 # Structure Booster
 
 {% hint style="info" %}
-This add-in will be released on **November 24 at 12:00 PM KST**.
-{% endhint %}
-
-{% hint style="info" %}
 This is a third-party add-in developed and provided by SCK.\
 Your consent to third-party data provision is required to use this add-in.
 {% endhint %}
