@@ -7,7 +7,7 @@
 3. Check the installed **Version** at the top.\
    📌 Example: **BIMIL v2.0.0.0**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. How to Update
 
