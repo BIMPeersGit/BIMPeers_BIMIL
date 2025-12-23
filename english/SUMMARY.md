@@ -151,7 +151,7 @@
 * [25-12-08](notices/25-12-08.md)
 * [25-12-18](notices/25-12-18.md)
 * [Notices Archive](notices/notices-archive/README.md)
-  * [25-12-15](notices/notices-archive/25-12-15.md)
+  * [25-12-15](notices/25-12-15.md)
   * [25-12-10](notices/notices-archive/25-12-10.md)
   * [25-12-05](notices/notices-archive/25-12-05.md)
   * [25-11-24](notices/notices-archive/25-11-24.md)
