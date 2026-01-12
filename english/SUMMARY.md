@@ -148,6 +148,7 @@
 
 ## Notices
 
+* [26-01-12](notices/26-01-12.md)
 * [25-12-08](notices/25-12-08.md)
 * [25-12-18](notices/25-12-18.md)
 * [Notices Archive](notices/notices-archive/README.md)
