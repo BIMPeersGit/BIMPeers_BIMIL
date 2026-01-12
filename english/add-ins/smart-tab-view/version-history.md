@@ -1,21 +1,25 @@
 # Version History
 
-### v1.2.2.0(2025-09-15)&#x20;
+#### v1.2.3.0(2026-01-12)
 
-* Optimized for Revit
+* Minor bug fixes.
 
-### v1.2.1.0(2025-06-25)&#x20;
+#### v1.2.2.0(2025-09-15)&#x20;
 
-* Bug fixes
+* Optimized for Revit.
 
-### v1.2.0.0(2025-06-23)&#x20;
+#### v1.2.1.0(2025-06-25)&#x20;
 
-* Revit 2026 supported
+* Minor bug fixes.
 
-### v1.0.1.0 (2025-01-20)
+#### v1.2.0.0(2025-06-23)&#x20;
+
+* Revit 2026 supported.
+
+#### v1.0.1.0 (2025-01-20)
 
 * Fixed errors when changing Color Placement in Revit 2022/2023.
 
-### v1.0.0.0 (2025-01-13)
+#### v1.0.0.0 (2025-01-13)
 
 * Add-in Released.

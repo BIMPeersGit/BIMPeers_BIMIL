@@ -1,11 +1,15 @@
 # Version History
 
-### v1.2.0.0(2025-06-23)&#x20;
+#### v1.2.1.0(2026-01-12)
 
-* Revit 2026 supported
+* Minor bug fixes.
+
+#### v1.2.0.0(2025-06-23)&#x20;
+
+* Revit 2026 supported.
 * Added option to capture only the Crop View area of your Revit view.
 
-### v1.0.0.0 (2025-03-31)
+#### v1.0.0.0 (2025-03-31)
 
 * Add-in Released.
 

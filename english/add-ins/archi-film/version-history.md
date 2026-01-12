@@ -1,18 +1,18 @@
 # Version History
 
-### Preview (2025-12-08)
+#### Preview (2025-12-08)
 
 * This is a temporary deployment for testing purposes.
 
-### v1.2.1.0 (2025-09-15)
+#### v1.2.1.0 (2025-09-15)
 
 * Fixed minor bugs.
 
-### Beta (2025-09-01)
+#### Beta (2025-09-01)
 
 * This is a temporary deployment for testing purposes.
 
-### Alpha (2025-06-09)
+#### Alpha (2025-06-09)
 
 * This is a temporary deployment for testing purposes.
 

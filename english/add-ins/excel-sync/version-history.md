@@ -1,5 +1,9 @@
 # Version History
 
+#### v1.0.3.0(2026-01-12)
+
+* Fixed issues with editing material takeoff.
+
 #### v1.0.2.0 (2025-12-23)
 
 * Minor bug fixes.
