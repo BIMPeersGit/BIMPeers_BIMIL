@@ -1,11 +1,16 @@
 # Version History
 
-### v1.2.0.0(2025-06-23)&#x20;
+#### v1.2.1.0(2026-02-02)&#x20;
+
+* UI improvements.
+* Minor bug fixes.
+
+#### v1.2.0.0(2025-06-23)&#x20;
 
 * Revit 2026 supported
 * Added a "Trigger" feature to auto-run scripts based on time or events
 
-### v1.1.0.0 (2025-02-17)
+#### v1.1.0.0 (2025-02-17)
 
 * Added window resizing and maximize options.
 * Added support for color and date inputs.
@@ -13,15 +18,15 @@
 * Allowed use of `.dyn` files with symbols in their names.
 * Various interface improvements.
 
-### v1.0.1.0 (2024-09-23)
+#### v1.0.1.0 (2024-09-23)
 
 * Support dark mode.
 * Updated interface.
 
-### v1.0.0.1 (2024-09-10)
+#### v1.0.0.1 (2024-09-10)
 
 * Fixed errors.
 
-### v1.0.0.0 (2024-08-19)
+#### v1.0.0.0 (2024-08-19)
 
 * Add-in released.

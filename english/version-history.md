@@ -1,5 +1,10 @@
 # Version History
 
+#### v2.0.2.0 (2026-02-02)
+
+* UI improvements.
+* Added Credit information in Settings.
+
 #### v2.0.1.0 (2025-12-15)
 
 * Fixed compatibility issue with some add-ins causing resource loading errors.

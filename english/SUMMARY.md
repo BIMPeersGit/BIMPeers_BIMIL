@@ -148,9 +148,10 @@
 
 ## Notices
 
-* [26-01-12](notices/26-01-12.md)
+* [26-01-30](notices/26-01-30.md)
 * [25-12-08](notices/25-12-08.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [26-01-12](notices/notices-archive/26-01-12.md)
   * [25-12-18](notices/notices-archive/25-12-18.md)
   * [25-12-15](notices/25-12-15.md)
   * [25-12-10](notices/notices-archive/25-12-10.md)
