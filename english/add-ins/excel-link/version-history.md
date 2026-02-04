@@ -1,5 +1,9 @@
 # Version History
 
+#### v1.2.3.0(2026-02-04)
+
+* Fixed compatibility issues.
+
 #### v1.2.2.0(2026-01-12)
 
 * Minor bug fixes.

@@ -1,5 +1,9 @@
 # Version History
 
+#### v2.0.3.0 (2026-02-02)
+
+* BIMIL Hotfix.
+
 #### v2.0.2.0 (2026-02-02)
 
 * UI improvements.
