@@ -1,8 +1,15 @@
 # Manage Seciton Box - Settings
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt="" width="390"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (108).png" alt="" width="390"><figcaption></figcaption></figure>
 
 Configure the rules for generating section boxes using the **Toggle Section Box** feature.
+
+## Default 3D View
+
+Specify the default 3D view where section boxes will be created when using the Toggle Section Box feature from a 2D view.
+
+* If the selected view name does not exist in the current project, you will be prompted to create it.
+* You can choose from existing 3D view names in the project using the dropdown menu.
 
 ## **Section Box Size**
 

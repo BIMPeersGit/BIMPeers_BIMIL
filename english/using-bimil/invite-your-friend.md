@@ -2,20 +2,6 @@
 description: >-
   BIMIL makes it easy to invite colleagues and friends. You can send an
   invitation in two ways:
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # 👬 Invite Your Friend

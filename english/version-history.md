@@ -1,5 +1,9 @@
 # Version History
 
+#### v2.0.4.0 (2026-04-10)
+
+* Fixed search issues in My Add-ins.
+
 #### v2.0.3.0 (2026-02-02)
 
 * BIMIL Hotfix.
