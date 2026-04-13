@@ -1,5 +1,9 @@
 # Version History
 
+#### 1.2.2.1 (2026-04-13)
+
+* Fixed issues with saving settings.
+
 #### 1.2.2.0 (2026-04-13)
 
 * Added option to set default 3D view for section box creation.
