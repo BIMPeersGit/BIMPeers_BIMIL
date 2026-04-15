@@ -154,7 +154,6 @@
 
 * [26-04-13](notices/26-04-13.md)
 * [Notices Archive](notices/notices-archive/README.md)
-  * [26-04-13 (Service Disruption Notice)](notices/notices-archive/26-04-13-service-disruption-notice.md)
   * [26-01-30](notices/notices-archive/26-01-30.md)
   * [26-01-12](notices/notices-archive/26-01-12.md)
   * [25-12-18](notices/notices-archive/25-12-18.md)
