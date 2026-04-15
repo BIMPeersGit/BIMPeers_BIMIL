@@ -26,3 +26,7 @@ Filter+ Visibility streamlines view visibility control by letting you create reu
 * Switching to another view will deactivate all toggles
 * If a temporary Hide/Isolate state is already applied, it will be cleared and replaced with the add-in's toggle settings
 * Some subcategories may not support independent Hide/Isolate separately from their parent category
+
+
+
+{% embed url="https://bimpeers.us17.list-manage.com/track/click?e=83d123090b&id=62ffff9027&u=92e40100691462c16f54c9274" %}
