@@ -7,11 +7,11 @@ description: >-
 # Family Cleaner
 
 {% hint style="info" %}
-### **Requirements**
+#### **Requirements**
 
 * Revit **2022–2026**
 * BIMIL Manager **v 1.1.9.0+**\
-  👉 How to check your BIMIL Manager version:  [Check here](../../get-started/check-and-update-bimil-manager-version.md)
+  👉 How to check your BIMIL Manager version: [Check here](../../get-started/check-and-update-bimil-manager-version.md)
 {% endhint %}
 
 ## 📌 **What is Family Cleaner?**
@@ -39,7 +39,7 @@ Unlike the standard Delete command which removes only from the view, Family Clea
 * Anyone who needs to load external or test families and then immediately purge them cleanly
 
 {% hint style="info" %}
-### &#x20;Family Cleaner cannot be installed separately.
+#### Family Cleaner cannot be installed separately.
 
 It is available only as part of the **Cleaning Service Add-in**.
 

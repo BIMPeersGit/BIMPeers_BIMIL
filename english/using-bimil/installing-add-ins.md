@@ -17,7 +17,7 @@ Before installing add-ins, make sure you have completed the following steps:
 
 After logging in, browse or search for add-ins in the **All Add-ins** page.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. View Add-in Details
 

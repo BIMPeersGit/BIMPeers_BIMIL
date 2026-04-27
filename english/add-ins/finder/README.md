@@ -11,7 +11,7 @@ description: >-
 Finder Add-in helps you quickly identify **where any selected element is located in your Revit model.**\
 With a single click, it automatically analyzes spatial information without the need for manual checking or complicated workflows.
 
-<figure><img src="../../.gitbook/assets/Mail IMG2 (1).png" alt=""><figcaption><p>Displays an element’s <strong>Grid, Level, Room, Space, Zone, and Area</strong> with a single click.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Mail IMG2.png" alt=""><figcaption><p>Displays an element’s <strong>Grid, Level, Room, Space, Zone, and Area</strong> with a single click.</p></figcaption></figure>
 
 ## ✅ Features
 
@@ -35,12 +35,12 @@ Exporting location data to reports
 
 * copy and paste the location information easily.
 
-#### &#x20;Use for QA/QC Checklists
+#### Use for QA/QC Checklists
 
 * Quickly check **“Which space should this element belong to?”**
 * Identify elements **missing Room or Area assignment** to catch modeling errors.
 
-#### &#x20;Empty Space Detection
+#### Empty Space Detection
 
 * If an element is **not in any Room, Space, or Area**,\
   → it may indicate a **missing spatial assignment or boundary issue**.
@@ -49,7 +49,7 @@ Exporting location data to reports
 
 ## ⚠️ Notes
 
-* Finder only supports selecting **a single element at a time**!&#x20;
+* Finder only supports selecting **a single element at a time**!
 * **Elements from Linked Models are not supported.** Only elements in the active project file are analyzed.
 * **Some elements may return inaccurate location results**, especially if they lack geometric placement or host references.
 

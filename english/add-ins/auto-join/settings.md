@@ -4,13 +4,11 @@
 
 Define the scope of Auto Join to include.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 * **All**: Try joining every elements in the model.
 * **Visible in View**: Try joining for elements which can view in the active view.
 * **Selected Elements**: Try joining for selected elements.
-
-
 
 ## Category Selection
 
@@ -41,16 +39,12 @@ For Walls & Floors, the structural or non-structural classification is determine
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## **Priority Setting**
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Drag and arrange categories to establish which ones have precedence in the joining hierarchy.
 
-
-
-## **Import / Export Settings:**&#x20;
+## **Import / Export Settings:**
 
 Export and import Auto Join configurations, facilitating reuse and sharing of settings across projects.

@@ -7,7 +7,7 @@
 3. Check the installed **Version** at the top.\
    📌 Example: **BIMIL v2.0.0.0**
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2. How to Update
 
@@ -32,8 +32,8 @@ You can update BIMIL Manager in two ways:
 
 If the update **does not run automatically** or you want to ensure you have the latest installer:
 
-Download the latest BIMIL Manager installer manually using the button below.&#x20;
+Download the latest BIMIL Manager installer manually using the button below.
 
-<h4 align="center"> <a href="https://bimil.bimpeers.com/download/latest" class="button primary" data-icon="down-to-bracket">Download Latest BIMIL Manager</a></h4>
+<h4 align="center"><a href="https://bimil.bimpeers.com/download/latest" class="button primary" data-icon="down-to-bracket">Download Latest BIMIL Manager</a></h4>
 
-<mark style="background-color:red;">⚠️</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Important:**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">Revit must also be</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**closed**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">before installing the downloaded version.</mark>
+<mark style="background-color:red;">⚠️</mark> <mark style="background-color:red;">**Important:**</mark> <mark style="background-color:red;">Revit must also be</mark> <mark style="background-color:red;">**closed**</mark> <mark style="background-color:red;">before installing the downloaded version.</mark>

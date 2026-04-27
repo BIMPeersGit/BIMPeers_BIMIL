@@ -1,6 +1,6 @@
 # How to Use
 
-<figure><img src="../../.gitbook/assets/Finder (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Finder (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 1️⃣ Select an Element
 
@@ -8,9 +8,9 @@
 
 #### 2️⃣ Click Finder
 
-* &#x20;Go to the **BIMIL** tab and click the **Finder** icon.
+* Go to the **BIMIL** tab and click the **Finder** icon.
 
-#### 3️⃣ Show Location&#x20;
+#### 3️⃣ Show Location
 
 * In the Finder window, you can check the selected element’s **Category, Family, Type, and Element ID**.
 * The tool will automatically display its **location information** such as Grid, Level (Ref./Geo.), Room, Space, and Area.

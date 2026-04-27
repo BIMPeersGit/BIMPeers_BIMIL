@@ -2,7 +2,7 @@
 
 ## Main Layout
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The BIMIL Manager window consists of:
 
@@ -45,8 +45,6 @@ Browse available add-ins in **All Add-ins**, or view only your installed add-ins
 * **Sort Dropdown**: Sort by "Most Downloads" or "Most Recent"
 * **Refresh Button (↻)**: Update the list
 * **Update All**: Update all add-ins with available updates (only appears when at least one update is available)
-
-
 
 **Add-in Cards:**
 

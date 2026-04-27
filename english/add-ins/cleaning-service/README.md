@@ -1,11 +1,11 @@
 # Cleaning Service
 
 {% hint style="info" %}
-### **Requirements**
+#### **Requirements**
 
 * Revit **2022–2026**
-* BIMIL Manager **v 1.1.9.0+** \
-  👉 How to check your BIMIL Manager version:  [Check here](../../get-started/check-and-update-bimil-manager-version.md)
+* BIMIL Manager **v 1.1.9.0+**\
+  👉 How to check your BIMIL Manager version: [Check here](../../get-started/check-and-update-bimil-manager-version.md)
 {% endhint %}
 
 ### 📌 **What is** Cleaning Service?
@@ -26,7 +26,7 @@ It allows you to **selectively remove unnecessary elements** from your Revit mod
 
 ✔️ Permanently remove the selected family from your project, like a Shift+Delete.
 
-3️⃣ [Spatial Cleaner](spatial-cleaner.md)&#x20;
+3️⃣ [Spatial Cleaner](spatial-cleaner.md)
 
 ✔️ Remove unplaced or unclosed Rooms, Spaces, and Areas to keep your spatial data clean and accurate.
 
@@ -42,7 +42,7 @@ It allows you to **selectively remove unnecessary elements** from your Revit mod
 
 ### 💡 **Why Cleaning Service?**
 
-Revit projects grow, unnecessary elements quietly pile up.\
+Revit projects grow, unnecessary elements quietly pile up.\
 The result: Heavier models, slower performance, and more time wasted finding what you need.
 
 Cleaning Service solves these hidden problems in just a few clicks:

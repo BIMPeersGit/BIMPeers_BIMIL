@@ -1,6 +1,6 @@
 # Tutorial
 
-<figure><img src="../../.gitbook/assets/튜토리얼1 (1).png" alt=""><figcaption><p>Main Interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/튜토리얼1.png" alt=""><figcaption><p>Main Interface</p></figcaption></figure>
 
 This is the basic interface of ArchiFilm. Each number indicates the following functions:
 
@@ -12,4 +12,3 @@ This is the basic interface of ArchiFilm. Each number indicates the following fu
 6. **Image Display Area**: The finally generated image or an image selected from the ArchiFilm Hub is displayed prominently here. This area also shows "Generate Image" before an image is loaded or generated.
 7. **Gallery Preview**: Small previews of recently generated images are displayed here. You can also find the 'Enhance Prompt' toggle and the 'Generate' button in this lower section.
 8. **Top Bar (Credits and Feedback)**: Displays your available credits (e.g., "20") and provides a 'Send Feedback' button. The user's name (e.g., "Hello, BIMPeers") is also shown here.
-

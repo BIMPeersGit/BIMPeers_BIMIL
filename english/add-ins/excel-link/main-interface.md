@@ -22,7 +22,7 @@ Each entry in the table represents a connection between Revit and a specific set
 * **Delete**: Removes the selected entry from the list. Works only on checked items.
 * **OK**: Confirms and applies changes made to the data table. Works only on checked items.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Example : Legend View created by Excel Link</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Example : Legend View created by Excel Link</p></figcaption></figure>
 
 ## **Data Table**
 

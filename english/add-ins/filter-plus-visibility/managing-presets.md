@@ -2,7 +2,7 @@
 
 ## Main Panel
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt="" width="270"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt="" width="270"><figcaption></figcaption></figure>
 
 The main panel displays all saved presets in a list.
 
@@ -22,8 +22,6 @@ The main panel displays all saved presets in a list.
 
 Click on column headers to sort the list by bookmark slot, preset name, or active state.
 
-
-
 ## New Preset / Edit Preset
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt="" width="300"><figcaption></figcaption></figure>
@@ -38,11 +36,8 @@ When creating or editing a preset, the following options are available:
 
 Click **Save** to apply changes or **Cancel** to discard.
 
-
-
 ### Edit Preset:
 
 The edit window provides the same options as creating a new preset, with one addition:
 
 * **Delete Preset** – Permanently remove the preset
-

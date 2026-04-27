@@ -1,6 +1,6 @@
 # ArchiFilm Extension
 
-<figure><img src="../../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 **Seamless Revit & SketchUp integration that moves your model directly into ArchiFilm Studio for instant AI-powered rendering.**
 
