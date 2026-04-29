@@ -1,11 +1,15 @@
 # Version History
 
+#### v1.3.1.0 (2026-04-29)
+
+- Corrected button icons.
+
 #### v1.3.0.0 (2026-04-29)
 
 - Revit 2027 supported.
 - UI Improvements.
 
-#### v1.2.0.0(2025-06-23)&#x20;
+#### v1.2.0.0(2025-06-23)
 
 - Revit 2026 supported
 

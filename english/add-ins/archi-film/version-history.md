@@ -1,5 +1,13 @@
 # Version History
 
+#### v1.3.1.2 (2026-04-29)
+
+- Fixed missing files during installation.
+
+#### v1.3.1.0 (2026-04-29)
+
+- Revit 2027 supported.
+
 #### Preview (2025-12-08)
 
 - This is a temporary deployment for testing purposes.
