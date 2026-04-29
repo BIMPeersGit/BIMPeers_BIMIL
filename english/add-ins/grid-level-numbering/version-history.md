@@ -1,22 +1,27 @@
 # Version History
 
-### v1.2.0.0(2025-06-23)&#x20;
+#### v1.3.0.0 (2026-04-29)
 
-* Revit 2026 supported
+- Revit 2027 supported.
+- UI Improvements.
 
-### v1.0.1.0 (2024-09-23)
+#### v1.2.0.0(2025-06-23)&#x20;
 
-* Support dark mode.
-* Updated interface.
+- Revit 2026 supported
 
-### v1.0.0.2 (2024-08-19)
+#### v1.0.1.0 (2024-09-23)
 
-* Support dark mode icon.
+- Support dark mode.
+- Updated interface.
 
-### v1.0.0.1 (2024-06-25)
+#### v1.0.0.2 (2024-08-19)
 
-* Support 2025 version.
+- Support dark mode icon.
 
-### v1.0.0.0 (2024-06-11)
+#### v1.0.0.1 (2024-06-25)
 
-* Add-in released.
+- Support 2025 version.
+
+#### v1.0.0.0 (2024-06-11)
+
+- Add-in released.

@@ -1,5 +1,9 @@
 # Version History
 
+#### v1.3.0.0 (2026-04-29)
+
+- Revit 2027 supported.
+
 #### v1.0.3.0(2026-01-12)
 
 * Fixed issues with editing material takeoff.

@@ -1,15 +1,20 @@
 # Version History
 
-### v1.2.0.0(2025-06-23)&#x20;
+#### v1.3.0.0 (2026-04-29)
 
-* Revit 2026 supported
+- Revit 2027 supported.
+- UI Improvements.
 
-### v1.0.1.0 (2025-01-13)
+#### v1.2.0.0(2025-06-23)&#x20;
 
-* Parameter Filter: Dropdown menus added for selecting values like Level and Base Constraint.
-* Parameter Filter: Automatically loads recent search conditions when enabled.
-* Parameter Filter: Added Import/Export functionality.
+- Revit 2026 supported
 
-### v1.0.0.0 (2024-09-23)
+#### v1.0.1.0 (2025-01-13)
 
-* Add-in released
+- Parameter Filter: Dropdown menus added for selecting values like Level and Base Constraint.
+- Parameter Filter: Automatically loads recent search conditions when enabled.
+- Parameter Filter: Added Import/Export functionality.
+
+#### v1.0.0.0 (2024-09-23)
+
+- Add-in released

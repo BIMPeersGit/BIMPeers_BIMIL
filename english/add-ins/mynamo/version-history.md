@@ -1,5 +1,9 @@
 # Version History
 
+#### v1.3.0.0 (2026-04-29)
+
+- Revit 2027 supported.
+
 #### v1.2.1.0(2026-02-02)&#x20;
 
 * UI improvements.

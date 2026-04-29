@@ -1,5 +1,9 @@
 # Version History
 
+#### v1.3.0.0 (2026-04-29)
+
+- Revit 2027 supported.
+
 #### v1.2.3.0(2026-02-04)
 
 * Fixed compatibility issues.
