@@ -5,7 +5,7 @@ description: Remove unplaced or unenclosed Rooms, Spaces, and Areas with one cli
 # Spatial Cleaner
 
 {% hint style="info" %}
-#### **Requirements**
+**Requirements**
 
 * Revit **2022–2026**
 * BIMIL Manager **v 1.1.9.0+**\
@@ -32,7 +32,7 @@ It helps keep your spatial data **accurate and clutter-free**.
 * Designers who want to quickly clean up unused Rooms / Areas / Spaces
 
 {% hint style="info" %}
-### Spatial Cleaner cannot be installed separately.
+#### Spatial Cleaner cannot be installed separately.
 
 It is available only as part of the **Cleaning Service Add-in**.
 

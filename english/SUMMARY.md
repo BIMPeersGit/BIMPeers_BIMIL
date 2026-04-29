@@ -152,8 +152,9 @@
 
 ## Notices
 
-* [26-04-24](notices/26-04-24.md)
+* [26-04-29](notices/26-04-24.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [26-04-24](notices/notices-archive/26-04-24.md)
   * [26-04-13](notices/notices-archive/26-04-13.md)
   * [26-01-30](notices/notices-archive/26-01-30.md)
   * [26-01-12](notices/notices-archive/26-01-12.md)
