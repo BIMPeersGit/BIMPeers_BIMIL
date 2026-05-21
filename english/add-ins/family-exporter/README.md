@@ -1,5 +1,6 @@
 ---
 description: Bulk export Revit families into organized folders.
+hidden: true
 ---
 
 # Family Exporter
