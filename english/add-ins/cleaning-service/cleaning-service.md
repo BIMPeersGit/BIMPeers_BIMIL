@@ -7,7 +7,7 @@ description: >-
 # Cleaning Service
 
 {% hint style="info" %}
-#### **Requirements**
+**Requirements**
 
 * Revit **2022–2026**
 * BIMIL Manager **v 1.1.9.0+**\
@@ -36,12 +36,12 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 
 {% tabs %}
 {% tab title="Basics+" %}
-#### Families
+**Families**
 
 * <mark style="background-color:yellow;">**Optimize used families by purging unused types/materials**</mark>\
   <mark style="color:red;">→ May take a long time as each family is purged and reloaded.</mark>
 
-#### **Groups**
+**Groups**
 
 * **Delete unused groups**\
   → Deletes group definitions that are not used anywhere in the model.
@@ -52,14 +52,14 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 * **Ungroup array-generated group**\
   → Ungroups array-generated groups and turns them into independent items.
 
-#### **Design Options**
+**Design Options**
 
 * **Delete non-primary design options**\
   → Deletes all secondary options, keeping only the primary option in each set to simplify models.
 {% endtab %}
 
 {% tab title="Model" %}
-#### **Host-Detached Elements**
+**Host-Detached Elements**
 
 * **Delete orphaned tags**\
   → Removes tags whose hosts no longer exist.
@@ -68,7 +68,7 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 * **Delete “\<not associated>” elements**\
   → Deletes elements that show as “\<not associated>” in Revit.
 
-#### **Room / Area / Space**
+**Room / Area / Space**
 
 * **Delete unplaced rooms/areas/spaces**\
   → Deletes definitions not placed in the model.
@@ -77,14 +77,14 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 * **Delete unused Room/Area/Space Separation Lines**\
   → Deletes separation lines that bound no valid region.
 
-#### **Model Lines**
+**Model Lines**
 
 * <mark style="background-color:yellow;">**Delete Model Lines not associated with any elements**</mark>\
   → Deletes model lines not tied to geometry.
 {% endtab %}
 
 {% tab title="Views" %}
-#### **Views & Sheets**
+**Views & Sheets**
 
 * **Delete Views (not placed on sheets)**\
   → Deletes standard views not assigned to any sheet (excluding Legends and Schedules).
@@ -96,14 +96,14 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 * **Delete empty Sheets (with no views)**\
   → Deletes sheets that contain no views.
 
-#### **Details**
+**Details**
 
 * **Delete Drafting views named ‘Drafting 1/2/3…’**\
   → Deletes user-created drafting views that still use default names without being renamed.
 * **Delete 3D views named ‘3D View 1/2/3…’**\
   → Deletes user-created 3D views that still use default names without being renamed.
 
-#### **Others**
+**Others**
 
 * **Delete unused view templates**\
   → Deletes templates not applied to any view.
@@ -114,7 +114,7 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 {% endtab %}
 
 {% tab title="Links" %}
-#### **Revit Link**
+**Revit Link**
 
 * **Delete Revit links**\
   (Option 1) All Revit Links → Deletes all Revit link instances and types.\
@@ -152,7 +152,7 @@ With features like **Triple Purge, auto backup, and Detailed Cleaning Preference
 * Any Revit user who needs to maintain a **lightweight model environment** during collaboration
 
 {% hint style="info" %}
-#### Cleaning Service is the **main installation package**.
+**Cleaning Service is the main installation package.**
 
 By downloading this Add-in, you also get **Family Cleaner and Spatial Cleaner** included.
 {% endhint %}
