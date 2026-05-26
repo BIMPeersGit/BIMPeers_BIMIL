@@ -18,3 +18,5 @@ Family Exporter is an add-in for Autodesk Revit that helps you export loaded pro
 * Existing RFA files with the same name in the output folder may be overwritten.
 * Exported files are organized by category, for example: `Save Folder / Doors / FamilyName.rfa`.
 * System families or non-editable families cannot be exported as standalone RFA files.
+
+{% embed url="https://youtu.be/sKHhMXL9g2s" %}
