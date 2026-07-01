@@ -123,8 +123,16 @@
   * [Polyline Dimension](add-ins/dimension-generator/polyline-dimension.md)
   * [Apply Last](add-ins/dimension-generator/apply-last.md)
 * [Quick Layer](add-ins/quick-layer/README.md)
+  * [Settings](add-ins/quick-layer/settings.md)
+  * [Transfer](add-ins/quick-layer/transfer.md)
+  * [Duplicate](add-ins/quick-layer/duplicate.md)
+  * [Set Current](add-ins/quick-layer/set-current.md)
 * [Viewport Generator](add-ins/viewport-generator/README.md)
+  * [Plan Frames](add-ins/viewport-generator/plan-frames.md)
+  * [Array (Grid)](add-ins/viewport-generator/array-grid.md)
+  * [Interactive](add-ins/viewport-generator/interactive.md)
 * [XY Coordinates](add-ins/xy-coordinates/README.md)
+  * [Settings](add-ins/xy-coordinates/settings.md)
 
 ***
 
