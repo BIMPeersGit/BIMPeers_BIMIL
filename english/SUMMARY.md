@@ -118,6 +118,10 @@
   * [Version History](add-ins/snap-view/version-history.md)
 * [Structure Booster](add-ins/structure-booster/README.md)
   * [Version History](add-ins/structure-booster/version-history.md)
+* [Dimension Generator](add-ins/dimension-generator/README.md)
+* [Quick Layer](add-ins/quick-layer/README.md)
+* [Viewport Generator](add-ins/viewport-generator/README.md)
+* [XY Coordinates](add-ins/xy-coordinates/README.md)
 
 ***
 
