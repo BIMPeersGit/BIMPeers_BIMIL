@@ -31,3 +31,4 @@ Viewport Generator is an AutoCAD add-in that turns the polyline frames in your M
 
 * Every mode builds on a **Source Layout**, so set up one template sheet (title block, viewport scale) before running.
 * Irregular polygon frames are reproduced exactly — stars, stairs, and other non-rectangular shapes included.
+* Your settings are saved to file, so the window reopens with your last configuration — even after restarting AutoCAD.

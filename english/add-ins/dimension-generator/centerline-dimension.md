@@ -13,8 +13,8 @@ Run it from the **Dimension Generator** ribbon button (or the `DIMGEN` / `BP_DIM
 1. **Open the window** — click **Dimension Generator** on the BIMIL ribbon tab, or type `DIMGEN`.
 2. **Choose the mode** — under **Target**, select **Centerline Dimension**.
 3. **Pick the targets** — under **Select**, choose one:
-   * **Select objects** — pick the centerlines (lines or open polylines) in the drawing.
-   * **Select layer** — search for a layer to dimension every line and polyline on it.
+   * **Select Objects** — pick the centerlines (lines or open polylines) in the drawing.
+   * **Select by Layer** — search for a layer to dimension every line and polyline on it.
 4. **Set the offsets** — under **Offsets**:
 
    | Field                 | Meaning                                                                 |
@@ -22,7 +22,7 @@ Run it from the **Dimension Generator** ribbon button (or the `DIMGEN` / `BP_DIM
    | **Detail Dimension**  | Distance from the centerlines to the first (detail) dimension line.     |
    | **Overall Dimension** | Distance from the detail dimension line out to the overall dimension line. |
 5. **Set the style & layer** — under **Settings**, choose the **Dimension Style** (use **Edit** to open the style manager) and the **Dimension Layer** the dimensions are placed on.
-6. **Apply** — the dimensions are placed and the result is shown in the status line.
+6. **Generate** — the dimensions are placed and the result is shown in the status line.
 
 ### Notes
 

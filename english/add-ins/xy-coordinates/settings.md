@@ -4,7 +4,7 @@ hidden: true
 
 # Settings
 
-Open the settings window with the **Settings** ribbon button (or the `XYCoordinatesSettings` / `XYS` command), adjust the options, and click **Apply** — the values are saved for the AutoCAD session and used the next time you pick coordinates. The window is grouped into **TEXT**, **FORMAT**, and **ANNOTATION**.
+Open the settings window with the **Settings** ribbon button (or the `XYCoordinatesSettings` / `XYS` command), adjust the options, and click **Save** — the values are stored to file and reused the next time you pick coordinates, even after restarting AutoCAD. The window is grouped into **TEXT**, **FORMAT**, and **ANNOTATION**.
 
 ### TEXT
 

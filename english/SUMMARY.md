@@ -121,7 +121,7 @@
 * [Dimension Generator](add-ins/dimension-generator/README.md)
   * [Centerline Dimension](add-ins/dimension-generator/centerline-dimension.md)
   * [Polyline Dimension](add-ins/dimension-generator/polyline-dimension.md)
-  * [Apply Last](add-ins/dimension-generator/apply-last.md)
+  * [Generate Last](add-ins/dimension-generator/generate-last.md)
 * [Quick Layer](add-ins/quick-layer/README.md)
   * [Settings](add-ins/quick-layer/settings.md)
   * [Transfer](add-ins/quick-layer/transfer.md)

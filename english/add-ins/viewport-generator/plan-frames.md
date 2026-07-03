@@ -12,7 +12,7 @@ Open the window with the **Viewport Generator** ribbon button (or the `VPG` comm
 
 1. **Open the window** and select **Plan Frames**.
 2. **Choose how to pick the frames:**
-   * **Directly Select** — click **Select** and pick the polyline frames in the drawing. The count is shown as *Selected : N*.
+   * **Select Objects** — click **Select** and pick the polyline frames in the drawing. The count is shown as *Selected : N*.
    * **Select by Layer** — choose a **Target Layer** to use every polyline on that layer as a frame.
 3. **Set the frame options** (optional):
 

@@ -12,8 +12,8 @@ Open the window with the **Quick Layer** ribbon button (or the `QLS` command).
 
 | Item                       | What it does                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |
-| **CURRENT LAYER (SLOT 0)** | Shows the current layer. It is read-only and is what *Transfer* / *Duplicate* use as slot 0.      |
-| **SHORTCUT SLOTS (1–9)**   | One row per slot. Choose or type a layer name, or click **Select** to pick an object in the drawing and use its layer. |
+| **Current Layer (Slot 0)** | Shows the current layer. It is read-only and is what *Transfer* / *Duplicate* use as slot 0.      |
+| **ShortCut Slots (1–9)**   | One row per slot. Choose or type a layer name, or click **Select** to pick an object in the drawing and use its layer. |
 | **Save**                   | Writes the slots into the current drawing.                                                        |
 | **Close**                  | Closes the window.                                                                                |
 

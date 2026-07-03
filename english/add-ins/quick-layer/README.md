@@ -17,7 +17,7 @@ Quick Layer lets you save the layers you use most into numbered slots (1–9) an
 | `QLD`   | `BP_QL_DUPLICATE` | Copy selected objects to a slot layer (0–9)       |
 | `QLC`   | `BP_QL_CURRENT`   | Set a slot layer (1–9) as the current layer       |
 
-On the **BIMIL** ribbon tab, the **Layer** panel has a **Quick Layer** split button — its drop-down holds Setting, Register, Transfer, Duplicate, and Set Current. Run a command without a number and it asks for the slot number in the command line.
+On the **BIMIL** ribbon tab, the **Layer** panel has a **Quick Layer** split button — its drop-down holds Settings, Register, Transfer, Duplicate, and Set Current. Run a command without a number and it asks for the slot number in the command line.
 
 #### Features
 

@@ -19,7 +19,7 @@ When **Polyline Dimension** is selected, two extra choices appear:
 | **Direction** | **Outside** | Places the dimensions outside the outline.                                    |
 |               | **Inside**  | Places the dimensions inside the outline.                                     |
 
-Hover the **?** preview to see how the current Method / Direction combination will look before you Apply.
+Hover the **?** preview to see how the current Method / Direction combination will look before you Generate.
 
 ### How to use
 
@@ -27,11 +27,11 @@ Hover the **?** preview to see how the current Method / Direction combination wi
 2. **Choose the mode** — under **Target**, select **Polyline Dimension**.
 3. **Set Method and Direction** — Aligned vs. Linear, and Outside vs. Inside.
 4. **Pick the targets** — under **Select**, choose one:
-   * **Select objects** — pick the closed polylines in the drawing.
-   * **Select layer** — search for a layer to dimension every closed polyline on it.
+   * **Select Objects** — pick the closed polylines in the drawing.
+   * **Select by Layer** — search for a layer to dimension every closed polyline on it.
 5. **Set the offset** — under **Offsets**, set **Detail Dimension** (the distance from each edge to its dimension line).
 6. **Set the style & layer** — under **Settings**, choose the **Dimension Style** (use **Edit** to open the style manager) and the **Dimension Layer** the dimensions are placed on.
-7. **Apply** — the dimensions are placed and the result is shown in the status line.
+7. **Generate** — the dimensions are placed and the result is shown in the status line.
 
 ### Notes
 
