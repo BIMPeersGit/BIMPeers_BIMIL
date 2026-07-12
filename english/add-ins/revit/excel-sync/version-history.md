@@ -1,0 +1,29 @@
+# Version History
+
+#### v1.3.2.0 (2026-07-13)
+
+* Rebuilt Excel Sync on a new engine for improved stability and performance.
+* Removed material takeoff schedule support to improve overall stability.
+
+#### v1.3.0.0 (2026-04-29)
+
+* Revit 2027 supported.
+
+#### v1.0.3.0(2026-01-12)
+
+* Fixed issues with editing material takeoff.
+
+#### v1.0.2.0 (2025-12-23)
+
+* Minor bug fixes.
+
+#### v1.0.1.0 (2025-09-24)
+
+* Added Linked model support.(view only)
+* New Schedule option.
+* Improved Import/Apply speed.
+* Minor bug fixes.
+
+#### v1.0.0.0 (2025-07-23)
+
+* Add-in Released.
