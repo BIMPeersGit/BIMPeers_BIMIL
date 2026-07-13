@@ -1,5 +1,7 @@
 # Settings
 
+<figure><img src="../../../.gitbook/assets/image (67).png" alt="" width="285"><figcaption></figcaption></figure>
+
 The settings window is where you fill your nine layer slots. **Register** (`QLR`) is the quick companion to it — it drops a picked object's layer straight into a slot without opening the window.
 
 Open the window with the **Quick Layer** ribbon button (or the `QLS` command).

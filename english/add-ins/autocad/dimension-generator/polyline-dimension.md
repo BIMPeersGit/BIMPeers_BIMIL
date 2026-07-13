@@ -21,6 +21,9 @@ Hover the **?** preview to see how the current Method / Direction combination wi
 
 1. **Open the window** — click **Dimension Generator** on the BIMIL ribbon tab, or type `DIMGEN`.
 2. **Choose the mode** — under **Target**, select **Polyline Dimension**.
+
+<figure><img src="../../../.gitbook/assets/image (48).png" alt="" width="345"><figcaption></figcaption></figure>
+
 3. **Set Method and Direction** — Aligned vs. Linear, and Outside vs. Inside.
 4. **Pick the targets** — under **Select**, choose one:
    * **Select Objects** — pick the closed polylines in the drawing.

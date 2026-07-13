@@ -1,8 +1,10 @@
 # Settings
 
-Open the settings window with the **Settings** ribbon button (or the `XYCoordinatesSettings` / `XYS` command), adjust the options, and click **Save** — the values are stored to file and reused the next time you pick coordinates, even after restarting AutoCAD. The window is grouped into **TEXT**, **FORMAT**, and **ANNOTATION**.
+<figure><img src="../../../.gitbook/assets/image (66).png" alt="" width="294"><figcaption></figcaption></figure>
 
-### TEXT
+Open the settings window with the **Settings** ribbon button (or the `XYCoordinatesSettings` / `XYS` command), adjust the options, and click **Save** — the values are stored to file and reused the next time you pick coordinates, even after restarting AutoCAD. The window is grouped into **Text**, **Format**, and **Annotation**.
+
+### Text
 
 | Option                          | Description                                                  | Default   |
 | ------------------------------- | ------------------------------------------------------------ | --------- |
@@ -10,14 +12,14 @@ Open the settings window with the **Settings** ribbon button (or the `XYCoordina
 | **Decimals**                    | Number of decimal places shown for the X and Y values.       | 0.000 (3) |
 | **Put X / Y on separate lines** | On writes X and Y on two lines; off writes them on one line. | On        |
 
-### FORMAT
+### Format
 
 | Option               | Description                                                                                                                       | Default     |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | **Delimiter (X, Y)** | The symbol between each axis letter and its value — `=`, `.`, or `:`. Same for X and Y.                                           | `=`         |
 | **Separator**        | The divider between X and Y when they are on one line — Comma, Space, or Slash. Ignored when _Put X / Y on separate lines_ is on. | Comma ( , ) |
 
-### ANNOTATION
+### Annotation
 
 | Option                  | Description                                                                                                                                                             | Default |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |

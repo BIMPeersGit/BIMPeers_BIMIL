@@ -1,5 +1,11 @@
 # Version History
 
+#### v2.1.0.0 (2026-07-13)
+
+* Added support for AutoCAD Add-ins.
+* Added filtering by program (Revit, AutoCAD, SketchUp).
+* Excel Link / Excel Sync add-ins are now launch from BIMIL.
+
 #### v2.0.6.0 (2026-05-26)
 
 * Added login device management and authentication features.

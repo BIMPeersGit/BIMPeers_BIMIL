@@ -1,5 +1,7 @@
 # Array (Grid)
 
+<figure><img src="../../../.gitbook/assets/image (61).png" alt="" width="345"><figcaption></figcaption></figure>
+
 Array (Grid) takes a single base frame and repeats it into a regular grid of viewports, so you can lay out many equally spaced sheets from one source without drawing every frame by hand.
 
 Open the window with the **Viewport Generator** ribbon button (or the `VPG` command) and set **Generation Method** to **Array (Grid)**.

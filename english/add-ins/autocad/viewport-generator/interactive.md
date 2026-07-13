@@ -1,5 +1,7 @@
 # Interactive
 
+<figure><img src="../../../.gitbook/assets/image (52).png" alt="" width="345"><figcaption></figcaption></figure>
+
 Interactive mode lets you place viewports by hand, clicking one after another in Model Space like stamping. The frame size and scale are copied from your source layout's viewport, so every viewport you drop matches it.
 
 Open the window with the **Viewport Generator** ribbon button (or the `VPG` command) and set **Generation Method** to **Interactive**.

@@ -1,5 +1,7 @@
 # Plan Frames
 
+<figure><img src="../../../.gitbook/assets/image (63).png" alt="" width="345"><figcaption></figcaption></figure>
+
 Plan Frames is the default mode. It turns polyline frames you have already drawn in Model Space into viewports in a single pass — one sheet per frame — following the true outline of each frame, whether it is a rectangle or an irregular shape such as an L-shape or a stair plan.
 
 Open the window with the **Viewport Generator** ribbon button (or the `VPG` command) and keep **Generation Method** on **Plan Frames**.
