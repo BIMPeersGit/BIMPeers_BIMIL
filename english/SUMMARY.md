@@ -175,8 +175,9 @@
 
 ## Notices
 
-* [26-07-03](notices/26-07-03.md)
+* [26-07-13](notices/26-07-13.md)
 * [Notices Archive](notices/notices-archive/README.md)
+  * [26-07-03](notices/notices-archive/26-07-03.md)
   * [26-05-26](notices/notices-archive/26-05-26.md)
   * [26-05-11](notices/notices-archive/26-04-24.md)
   * [26-04-29](notices/notices-archive/26-04-24-1.md)
