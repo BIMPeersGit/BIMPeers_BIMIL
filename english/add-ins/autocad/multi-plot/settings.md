@@ -4,6 +4,10 @@ hidden: true
 
 # Settings
 
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="510"><figcaption></figcaption></figure>
+
+\
+\
 Open **Multi Plot** from the BIMIL ribbon, or run `BP_MTP` / `MTP`. The window is organized around the page setup, reference frame, DWG queue, output folder, and plot status.
 
 ### Plot Setup

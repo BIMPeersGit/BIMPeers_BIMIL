@@ -22,7 +22,7 @@ layout:
 
 # Settings
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="330"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="330"><figcaption></figcaption></figure>
 
 \
 Open **Table Paste** from the BIMIL ribbon, or run `BP_TBP` / `TBP`, after copying a table. The window reads the clipboard first, shows the detected table size, and lets you choose how the native AutoCAD table will be placed.
