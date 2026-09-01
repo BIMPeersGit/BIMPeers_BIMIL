@@ -124,7 +124,6 @@
     * [Generate Last](add-ins/autocad/auto-label/generate-last.md)
     * [Version History](add-ins/autocad/auto-label/version-history.md)
   * [Table Paste](add-ins/autocad/table-paste/README.md)
-    * [Paste Window](add-ins/autocad/table-paste/paste-window.md)
     * [Paste Workflow](add-ins/autocad/table-paste/paste-workflow.md)
     * [Version History](add-ins/autocad/table-paste/version-history.md)
   * [Dimension Generator](add-ins/autocad/dimension-generator/README.md)

@@ -1,5 +1,7 @@
 ---
-description: Paste copied spreadsheet or document tables into AutoCAD as editable table objects.
+description: >-
+  Paste copied spreadsheet or document tables into AutoCAD as editable table
+  objects.
 hidden: true
 ---
 
@@ -9,10 +11,10 @@ Table Paste reads table data from the clipboard and places it in Model Space as 
 
 #### Commands
 
-| Command          | Alias        | Action                       |
-| ---------------- | ------------ | ---------------------------- |
-| `BP_TBP`         | `TBP`        | Open the Table Paste window  |
-| `BP_TABLE_PASTE` | `TABLEPASTE` | Open the Table Paste window  |
+| Command          | Alias        | Action                      |
+| ---------------- | ------------ | --------------------------- |
+| `BP_TBP`         | `TBP`        | Open the Table Paste window |
+| `BP_TABLE_PASTE` | `TABLEPASTE` | Open the Table Paste window |
 
 The same action is available from the **Table Paste** button on the **BIMIL** ribbon tab.
 
@@ -21,14 +23,14 @@ The same action is available from the **Table Paste** button on the **BIMIL** ri
 1. Copy a table or cell range from the source application.
 2. Run **Table Paste** from the BIMIL ribbon, or type `TBP`.
 3. Check the detected table size and preview size in the **Clipboard** summary.
-4. Choose the **Table scale**, **Text style**, **Table layer**, and **Anchor corner**. See [Paste Window](paste-window.md).
+4. Choose the **Table scale**, **Text style**, **Table layer**, and **Anchor corner**. See [Paste Window](/broken/pages/dmVbggaEI2Hb63j8CelJ).
 5. Click **OK**, then pick the insertion point in Model Space.
 
 #### Clipboard data
 
 | Source format | Behavior                                                                                                  |
 | ------------- | --------------------------------------------------------------------------------------------------------- |
-| **Excel XML** | Preserves Excel row and column sizes, merged cells, fonts, colors, fills, borders, and alignment.          |
+| **Excel XML** | Preserves Excel row and column sizes, merged cells, fonts, colors, fills, borders, and alignment.         |
 | **HTML**      | Reads copied web or spreadsheet tables, including nested table handling, CSS styling, spans, and padding. |
 | **RTF**       | Reads table structure from Word and HWP-style clipboard data, including row heights and merged regions.   |
 
