@@ -124,6 +124,7 @@
     * [Generate Last](add-ins/autocad/auto-label/generate-last.md)
     * [Version History](add-ins/autocad/auto-label/version-history.md)
   * [Table Paste](add-ins/autocad/table-paste/README.md)
+    * [Settings](add-ins/autocad/table-paste/settings.md)
     * [Version History](add-ins/autocad/table-paste/version-history.md)
   * [Dimension Generator](add-ins/autocad/dimension-generator/README.md)
     * [Centerline Dimension](add-ins/autocad/dimension-generator/centerline-dimension.md)
