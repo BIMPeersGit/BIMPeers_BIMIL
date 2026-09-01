@@ -23,8 +23,21 @@ The same action is available from the **Table Paste** button on the **BIMIL** ri
 1. Copy a table or cell range from the source application.
 2. Run **Table Paste** from the BIMIL ribbon, or type `TBP`.
 3. Check the detected table size and preview size in the **Clipboard** summary.
-4. Choose the **Table scale**, **Text style**, **Table layer**, and **Anchor corner**. See [Paste Window](/broken/pages/dmVbggaEI2Hb63j8CelJ).
-5. Click **OK**, then pick the insertion point in Model Space.
+4. Choose the **Table scale**, **Text style**, **Table layer**, and **Anchor corner**.
+5. Click **OK**, then move the cursor in Model Space and pick the insertion point when the preview is in the right place.
+
+#### Paste window
+
+| Option            | Description                                                                                           | Default       |
+| ----------------- | ----------------------------------------------------------------------------------------------------- | ------------- |
+| **Table scale**   | Multiplies the source table size before insertion. Use the plotted drawing scale, such as `100` for 1:100. | `1`           |
+| **Text style**    | Use **Source fonts** or force every cell to an existing AutoCAD text style from the active drawing.    | Source fonts  |
+| **Table layer**   | Place the table on the current layer or another existing drawing layer.                               | Current Layer |
+| **Anchor corner** | Controls which point of the table stays on the location you pick in Model Space.                      | Center        |
+
+#### Live preview
+
+The preview uses the same layout measurement as the final table insertion. It shows the table outline, cell divisions, merged-cell footprint, and visible cell text where possible. Very dense tables show their overall footprint only, so large pastes remain responsive while still showing the space they will occupy.
 
 #### Clipboard data
 
@@ -39,4 +52,6 @@ The same action is available from the **Table Paste** button on the **BIMIL** ri
 * Table Paste chooses the richest clipboard table it can find. If several formats are available, it prefers the version with the most actual table content.
 * The inserted result is a single AutoCAD table, so it can be moved, edited, styled, or scheduled like other AutoCAD table objects.
 * Source colors, source fonts, row heights, column widths, padding, borders, and merges are applied when the clipboard provides them.
+* If no table data is found in the clipboard, Table Paste shows a warning and does not change the drawing.
+* If the Table Paste window is already open, running the command again refreshes it with the latest clipboard data.
 * Settings are saved locally and restored after AutoCAD restarts.
