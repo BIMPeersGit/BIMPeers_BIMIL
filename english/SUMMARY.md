@@ -123,6 +123,8 @@
     * [Settings](add-ins/autocad/auto-label/settings.md)
     * [Generate Last](add-ins/autocad/auto-label/generate-last.md)
     * [Version History](add-ins/autocad/auto-label/version-history.md)
+  * [Object Align](add-ins/autocad/object-align/README.md)
+    * [Version History](add-ins/autocad/object-align/version-history.md)
   * [Table Paste](add-ins/autocad/table-paste/README.md)
     * [Settings](add-ins/autocad/table-paste/settings.md)
     * [Version History](add-ins/autocad/table-paste/version-history.md)
