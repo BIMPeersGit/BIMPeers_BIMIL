@@ -9,18 +9,7 @@ Object Align arranges selected AutoCAD objects by their geometric extents in the
 
 #### Commands
 
-| Command  | Alias | Action                                      |
-| -------- | ----- | ------------------------------------------- |
-| `BP_AGL` | `AGL` | Align selected objects to the left edge     |
-| `BP_AGC` | `AGC` | Align selected objects to the center line   |
-| `BP_AGR` | `AGR` | Align selected objects to the right edge    |
-| `BP_AGT` | `AGT` | Align selected objects to the top edge      |
-| `BP_AGM` | `AGM` | Align selected objects to the middle line   |
-| `BP_AGB` | `AGB` | Align selected objects to the bottom edge   |
-| `BP_AGH` | `AGH` | Distribute selected objects horizontally    |
-| `BP_AGV` | `AGV` | Distribute selected objects vertically      |
-| `BP_DSH` | `DSH` | Distribute selected objects horizontally    |
-| `BP_DSV` | `DSV` | Distribute selected objects vertically      |
+<table><thead><tr><th>Command</th><th>Alias</th><th width="246">Action</th></tr></thead><tbody><tr><td><code>BP_AGL</code></td><td><code>AGL</code></td><td>Align selected objects to the left edge</td></tr><tr><td><code>BP_AGC</code></td><td><code>AGC</code></td><td>Align selected objects to the center line</td></tr><tr><td><code>BP_AGR</code></td><td><code>AGR</code></td><td>Align selected objects to the right edge</td></tr><tr><td><code>BP_AGT</code></td><td><code>AGT</code></td><td>Align selected objects to the top edge</td></tr><tr><td><code>BP_AGM</code></td><td><code>AGM</code></td><td>Align selected objects to the middle line</td></tr><tr><td><code>BP_AGB</code></td><td><code>AGB</code></td><td>Align selected objects to the bottom edge</td></tr><tr><td><code>BP_AGH</code></td><td><code>AGH</code></td><td>Distribute selected objects horizontally</td></tr><tr><td><code>BP_AGV</code></td><td><code>AGV</code></td><td>Distribute selected objects vertically</td></tr><tr><td><code>BP_DSH</code></td><td><code>DSH</code></td><td>Distribute selected objects horizontally</td></tr><tr><td><code>BP_DSV</code></td><td><code>DSV</code></td><td>Distribute selected objects vertically</td></tr></tbody></table>
 
 The same actions are available from the **Align** panel on the **BIMIL** ribbon tab.
 
@@ -34,21 +23,21 @@ The same actions are available from the **Align** panel on the **BIMIL** ribbon 
 
 #### Align operations
 
-| Operation            | Behavior                                                                            |
-| -------------------- | ----------------------------------------------------------------------------------- |
-| **Align Left**       | Moves objects so their left extents share the same X position.                      |
-| **Align Center**     | Moves objects so their horizontal centers share the selection's center X position.  |
-| **Align Right**      | Moves objects so their right extents share the same X position.                     |
-| **Align Top**        | Moves objects so their top extents share the same Y position.                       |
-| **Align Middle**     | Moves objects so their vertical centers share the selection's center Y position.    |
-| **Align Bottom**     | Moves objects so their bottom extents share the same Y position.                    |
+| Operation        | Behavior                                                                           |
+| ---------------- | ---------------------------------------------------------------------------------- |
+| **Align Left**   | Moves objects so their left extents share the same X position.                     |
+| **Align Center** | Moves objects so their horizontal centers share the selection's center X position. |
+| **Align Right**  | Moves objects so their right extents share the same X position.                    |
+| **Align Top**    | Moves objects so their top extents share the same Y position.                      |
+| **Align Middle** | Moves objects so their vertical centers share the selection's center Y position.   |
+| **Align Bottom** | Moves objects so their bottom extents share the same Y position.                   |
 
 #### Distribute operations
 
-| Operation                     | Behavior                                                                                  |
-| ----------------------------- | ----------------------------------------------------------------------------------------- |
-| **Distribute Horizontally**   | Keeps the leftmost and rightmost objects fixed, then makes the horizontal gaps equal.      |
-| **Distribute Vertically**     | Keeps the lowest and highest objects fixed, then makes the vertical gaps equal.            |
+| Operation                   | Behavior                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------- |
+| **Distribute Horizontally** | Keeps the leftmost and rightmost objects fixed, then makes the horizontal gaps equal. |
+| **Distribute Vertically**   | Keeps the lowest and highest objects fixed, then makes the vertical gaps equal.       |
 
 #### Notes
 
