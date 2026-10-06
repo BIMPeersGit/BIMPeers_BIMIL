@@ -1,6 +1,5 @@
 ---
 description: Label selected AutoCAD geometry with area, length, and radius measurements.
-hidden: true
 ---
 
 # Auto Label
@@ -9,10 +8,10 @@ Auto Label reads selected boundaries and curves and places measurement labels di
 
 #### Commands
 
-| Command       | Alias | Action                                                     |
-| ------------- | ----- | ---------------------------------------------------------- |
-| `BP_ALG`      | `ALG` | Open the Auto Label window                                 |
-| `BP_ALG_LAST` | `ALGL` | Generate labels immediately with the last-saved settings  |
+| Command       | Alias  | Action                                                   |
+| ------------- | ------ | -------------------------------------------------------- |
+| `BP_ALG`      | `ALG`  | Open the Auto Label window                               |
+| `BP_ALG_LAST` | `ALGL` | Generate labels immediately with the last-saved settings |
 
 The same actions are available from the **Auto Label** split button on the **BIMIL** ribbon tab: choose **Auto Label** to configure the labels, or **Generate Last** to reuse the saved setup.
 
@@ -29,7 +28,7 @@ The same actions are available from the **Auto Label** split button on the **BIM
 | Output     | Supported geometry and behavior                                                                                       |
 | ---------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Area**   | Closed curves, regions, and hatches. A label can be created for each object or as one sum for multiple valid objects. |
-| **Length** | Lines, arcs, circles, and polylines. Label each edge/segment or create a summed perimeter/path-length value.           |
+| **Length** | Lines, arcs, circles, and polylines. Label each edge/segment or create a summed perimeter/path-length value.          |
 | **Radius** | Arcs and circles. A radial line and radius text are placed for each valid object.                                     |
 
 #### Notes

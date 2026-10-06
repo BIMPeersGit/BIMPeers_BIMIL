@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Generate Last
 
 Generate Last applies the most recently saved Auto Label setup to a new selection without opening the settings window. Run it from the **Generate Last** item in the Auto Label split button, or type `BP_ALG_LAST` / `ALGL`.

@@ -1,5 +1,11 @@
 # Version History
 
+#### v2.2.2.0 (2026-10-06)
+
+* Switched to an MSI-based installer.
+* Updated the default fonts for Revit and AutoCAD add-ins.
+* Added a notification for startup connection issues.
+
 #### v2.1.0.0 (2026-07-13)
 
 * Added support for AutoCAD Add-ins.

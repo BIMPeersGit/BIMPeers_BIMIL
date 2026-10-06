@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Settings
 
 Open **Auto Label** from the BIMIL ribbon (or run `BP_ALG` / `ALG`). The window has a selection area, three independent output-property pages, and one shared **Label Style** section.
