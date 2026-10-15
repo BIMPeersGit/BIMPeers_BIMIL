@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Import from Excel
 
 ### 1. Open the workbook
@@ -12,13 +8,13 @@ Open **Family Type Manager** in the same Revit project used for export, click **
 
 Use the tabs and search field to review the detected rows:
 
-| Action        | Meaning                                                                                              |
-| ------------- | ---------------------------------------------------------------------------------------------------- |
-| **Create**    | A new type will be duplicated from an existing type in the same family.                              |
-| **Overwrite** | A new row uses an existing type name and can replace that type's values.                              |
-| **Update**    | An existing type name or one or more editable parameters changed.                                    |
-| **No Change** | The workbook values match the current Revit type.                                                     |
-| **Error**     | The row contains invalid data or a change that cannot be applied.                                    |
+| Action        | Meaning                                                                  |
+| ------------- | ------------------------------------------------------------------------ |
+| **Create**    | A new type will be duplicated from an existing type in the same family.  |
+| **Overwrite** | A new row uses an existing type name and can replace that type's values. |
+| **Update**    | An existing type name or one or more editable parameters changed.        |
+| **No Change** | The workbook values match the current Revit type.                        |
+| **Error**     | The row contains invalid data or a change that cannot be applied.        |
 
 Expand a row to inspect its details. Create rows show the source and new values; update and overwrite rows show the current and new values; error rows show the field, input value, and reason.
 
@@ -46,4 +42,3 @@ After a successful import, the result reports the numbers of created, updated, o
 * If multiple workbook rows target the same existing type, the last applicable instruction in workbook order is used.
 * Invalid choice values are reported as errors instead of being silently converted.
 * All valid changes are applied in one Revit transaction. If any operation fails, the entire import is rolled back.
-

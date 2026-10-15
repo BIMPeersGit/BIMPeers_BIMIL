@@ -1,6 +1,7 @@
 ---
-description: Export Revit family type data to Excel and safely create or update types from an import preview.
-hidden: true
+description: >-
+  Export Revit family type data to Excel and safely create or update types from
+  an import preview.
 ---
 
 # Family Type Manager
@@ -17,10 +18,6 @@ Family Type Manager lets you manage Revit family type data through Excel. Choose
 * Filter the import preview by **Create**, **Overwrite**, **Update**, **No Change**, or **Error**.
 * Roll back the complete import if Revit rejects any operation.
 
-### Supported versions
-
-Family Type Manager supports Revit **2023–2027**. Revit 2022 is not supported.
-
 ### Notes
 
 * Family Type Manager edits **type data**, not instance parameter values.
@@ -28,4 +25,3 @@ Family Type Manager supports Revit **2023–2027**. Revit 2022 is not supported.
 * The workbook is tied to the Revit project from which it was exported. Import it into the same active project.
 * Keep the workbook's hidden BIMIL data intact. It identifies the project, families, rows, parameters, and choice values used during import.
 * The project must remain the active document while an export or import request is running. If the active document changes, reload the list and start again.
-

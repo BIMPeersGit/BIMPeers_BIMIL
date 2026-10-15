@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Export to Excel
 
 ### 1. Start Family Type Manager
@@ -12,11 +8,11 @@ Open the **BIMIL** tab in Revit and click **Family Type Manager**. The window lo
 
 Use the tabs to browse **Model**, **Annotation**, or **Analytical Model** types. Then choose which part of the project supplies the family list:
 
-| Scope                 | Families shown                                                                 |
-| --------------------- | ------------------------------------------------------------------------------ |
-| **All**               | All supported types loaded in the active project                               |
-| **Active View**       | Families used by elements visible in the active view                           |
-| **Selected Elements** | Families used by the elements currently selected in Revit                      |
+| Scope                 | Families shown                                            |
+| --------------------- | --------------------------------------------------------- |
+| **All**               | All supported types loaded in the active project          |
+| **Active View**       | Families used by elements visible in the active view      |
+| **Selected Elements** | Families used by the elements currently selected in Revit |
 
 Changing the category tab clears the current **Selected Families** list, so finish one group before switching tabs.
 
@@ -39,13 +35,13 @@ Click **Export**, choose a location, and save the `.xlsx` file. The suggested fi
 
 Family Type Manager creates one visible worksheet per selected family. Each worksheet contains:
 
-| Column                            | Purpose                                                        |
-| --------------------------------- | -------------------------------------------------------------- |
-| **ElementId**                     | Identifies an existing Revit type; do not edit                  |
-| **Category**                      | Identifies the Revit category; do not edit                      |
-| **Family**                        | Identifies the family; do not edit                              |
-| **Type**                          | Existing or new type name; editable                             |
-| **Parameter columns**             | Editable type-parameter values                                 |
+| Column                | Purpose                                        |
+| --------------------- | ---------------------------------------------- |
+| **ElementId**         | Identifies an existing Revit type; do not edit |
+| **Category**          | Identifies the Revit category; do not edit     |
+| **Family**            | Identifies the family; do not edit             |
+| **Type**              | Existing or new type name; editable            |
+| **Parameter columns** | Editable type-parameter values                 |
 
 ### 5. Edit in Excel
 
@@ -59,4 +55,3 @@ Do not delete or replace the hidden BIMIL row/column identifiers or internal wor
 {% endhint %}
 
 Deleted parameter columns are ignored during import. When creating a type, an omitted parameter keeps the value inherited from the chosen **Duplicate from** type.
-
